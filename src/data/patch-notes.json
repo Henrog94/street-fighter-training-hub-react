@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Street Fighter 6 Patch Notes \u2014 SuperCombo Wiki",
+    "date": "Wiki reference",
+    "type": "Community reference",
+    "summary": "Use this page to locate and review the game's patch history and related update references.",
+    "url": "https://wiki.supercombo.gg/w/Street_Fighter_6/Patch_Notes",
+    "source": "SuperCombo Wiki"
+  },
+  {
+    "id": 2,
+    "title": "Street Fighter 6 \u2014 Official News",
+    "date": "Official source",
+    "type": "Official announcements",
+    "summary": "Check Capcom's official site for update announcements, maintenance notices, and game news.",
+    "url": "https://www.streetfighter.com/6/",
+    "source": "Capcom"
+  },
+  {
+    "id": 3,
+    "title": "Street Fighter 6 \u2014 Steam News",
+    "date": "Official platform source",
+    "type": "Update announcements",
+    "summary": "Browse Steam announcements for PC update notes and release information.",
+    "url": "https://store.steampowered.com/news/app/1364780",
+    "source": "Steam"
+  }
+]

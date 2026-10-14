@@ -1,0 +1,2460 @@
+{
+  "source": "https://wiki.supercombo.gg/w/Street_Fighter_6/Arjun",
+  "fetchedAt": "2026-10-10T20:31:20.822Z",
+  "method": "MediaWiki API",
+  "title": "Street Fighter 6/Arjun",
+  "headings": [
+    {
+      "level": 2,
+      "title": "Introduction"
+    },
+    {
+      "level": 3,
+      "title": "Classic &amp; Modern Versions Comparison"
+    },
+    {
+      "level": 2,
+      "title": "Normals"
+    },
+    {
+      "level": 3,
+      "title": "Standing Normals"
+    },
+    {
+      "level": 5,
+      "title": "5LP"
+    },
+    {
+      "level": 5,
+      "title": "5MP"
+    },
+    {
+      "level": 5,
+      "title": "5HP"
+    },
+    {
+      "level": 5,
+      "title": "5LK"
+    },
+    {
+      "level": 5,
+      "title": "5MK"
+    },
+    {
+      "level": 5,
+      "title": "5HK"
+    },
+    {
+      "level": 3,
+      "title": "Crouching Normals"
+    },
+    {
+      "level": 5,
+      "title": "2LP"
+    },
+    {
+      "level": 5,
+      "title": "2MP"
+    },
+    {
+      "level": 5,
+      "title": "2HP"
+    },
+    {
+      "level": 5,
+      "title": "2LK"
+    },
+    {
+      "level": 5,
+      "title": "2MK"
+    },
+    {
+      "level": 5,
+      "title": "2HK"
+    },
+    {
+      "level": 3,
+      "title": "Jumping Normals"
+    },
+    {
+      "level": 5,
+      "title": "j.LP"
+    },
+    {
+      "level": 5,
+      "title": "j.MP"
+    },
+    {
+      "level": 5,
+      "title": "j.HP"
+    },
+    {
+      "level": 5,
+      "title": "j.LK"
+    },
+    {
+      "level": 5,
+      "title": "j.MK"
+    },
+    {
+      "level": 5,
+      "title": "j.HK"
+    },
+    {
+      "level": 2,
+      "title": "Command Normals"
+    },
+    {
+      "level": 5,
+      "title": "6HP"
+    },
+    {
+      "level": 5,
+      "title": "6HK"
+    },
+    {
+      "level": 2,
+      "title": "Target Combos"
+    },
+    {
+      "level": 5,
+      "title": "5MK~HK"
+    },
+    {
+      "level": 5,
+      "title": "5HP~HP~HP/HK"
+    },
+    {
+      "level": 5,
+      "title": "5HK~HP"
+    },
+    {
+      "level": 2,
+      "title": "Throws"
+    },
+    {
+      "level": 5,
+      "title": "Forward Throw (LPLK)"
+    },
+    {
+      "level": 5,
+      "title": "Back Throw (4LPLK)"
+    },
+    {
+      "level": 2,
+      "title": "Drive System"
+    },
+    {
+      "level": 5,
+      "title": "Drive Impact (HPHK)"
+    },
+    {
+      "level": 5,
+      "title": "Drive Reversal (6HPHK)"
+    },
+    {
+      "level": 5,
+      "title": "Drive Parry (MPMK)"
+    },
+    {
+      "level": 5,
+      "title": "Drive Rush (MPMK~66)"
+    },
+    {
+      "level": 2,
+      "title": "Special Moves"
+    },
+    {
+      "level": 5,
+      "title": "Arm of Justice (236P)"
+    },
+    {
+      "level": 6,
+      "title": "Arm follow-up (236P~6P)"
+    },
+    {
+      "level": 5,
+      "title": "Cruel Shoulder (623P)"
+    },
+    {
+      "level": 6,
+      "title": "Justice Beyond (214X~623P)"
+    },
+    {
+      "level": 5,
+      "title": "Breathing Ring (236K)"
+    },
+    {
+      "level": 6,
+      "title": "Breathing Shockwave (236K~6P)"
+    },
+    {
+      "level": 5,
+      "title": "Divine Pillar (214K)"
+    },
+    {
+      "level": 5,
+      "title": "Ghastly Interrogation (63214P)"
+    },
+    {
+      "level": 5,
+      "title": "Indomitable Defense (22HK)"
+    },
+    {
+      "level": 2,
+      "title": "Super Arts"
+    },
+    {
+      "level": 5,
+      "title": "Level 1 Super (236236K)"
+    },
+    {
+      "level": 5,
+      "title": "Level 2 Super (214214P)"
+    },
+    {
+      "level": 5,
+      "title": "Level 3 Super (236236P)"
+    },
+    {
+      "level": 2,
+      "title": "Taunts"
+    },
+    {
+      "level": 5,
+      "title": "Neutral Taunt (5PPPKKK)"
+    },
+    {
+      "level": 5,
+      "title": "Forward Taunt (6PPPKKK)"
+    },
+    {
+      "level": 5,
+      "title": "Back Taunt (4PPPKKK)"
+    },
+    {
+      "level": 2,
+      "title": "SF6 Navigation"
+    }
+  ],
+  "text": "Character breakdown in progress\n\nArjun is a new character ! This page is currently under construction and information might be inaccurate, incomplete, or missing entirely.\n\n🤝 Want to help us out? Join the SF6 Resource Hub for more info on editing and other ways you can potentially help with this resource.\n\nOverview\nCombos\nStrategy\nMatchups\nFrame Data\nResources\nReplay Database\nMatch Footage\n#SF6_Arjun\n\nContents\n\n1 Introduction\n\n1.1 Classic & Modern Versions Comparison\n\n2 Normals\n\n2.1 Standing Normals\n\n2.1.1 5LP\n\n2.1.2 5MP\n\n2.1.3 5HP\n\n2.1.4 5LK\n\n2.1.5 5MK\n\n2.1.6 5HK\n\n2.2 Crouching Normals\n\n2.2.1 2LP\n\n2.2.2 2MP\n\n2.2.3 2HP\n\n2.2.4 2LK\n\n2.2.5 2MK\n\n2.2.6 2HK\n\n2.3 Jumping Normals\n\n2.3.1 j.LP\n\n2.3.2 j.MP\n\n2.3.3 j.HP\n\n2.3.4 j.LK\n\n2.3.5 j.MK\n\n2.3.6 j.HK\n\n3 Command Normals\n\n3.1 6HP\n\n3.2 6HK\n\n4 Target Combos\n\n4.1 5MK~HK\n\n4.2 5HP~HP~HP/HK\n\n4.3 5HK~HP\n\n5 Throws\n\n5.1 Forward Throw (LPLK)\n\n5.2 Back Throw (4LPLK)\n\n6 Drive System\n\n6.1 Drive Impact (HPHK)\n\n6.2 Drive Reversal (6HPHK)\n\n6.3 Drive Parry (MPMK)\n\n6.4 Drive Rush (MPMK~66)\n\n7 Special Moves\n\n7.1 Arm of Justice (236P)\n\n7.1.1 Arm follow-up (236P~6P)\n\n7.2 Cruel Shoulder (623P)\n\n7.2.1 Justice Beyond (214X~623P)\n\n7.3 Breathing Ring (236K)\n\n7.3.1 Breathing Shockwave (236K~6P)\n\n7.4 Divine Pillar (214K)\n\n7.5 Ghastly Interrogation (63214P)\n\n7.6 Indomitable Defense (22HK)\n\n8 Super Arts\n\n8.1 Level 1 Super (236236K)\n\n8.2 Level 2 Super (214214P)\n\n8.3 Level 3 Super (236236P)\n\n9 Taunts\n\n9.1 Neutral Taunt (5PPPKKK)\n\n9.2 Forward Taunt (6PPPKKK)\n\n9.3 Back Taunt (4PPPKKK)\n\n10 SF6 Navigation\n\nIntroduction\n\nedit\n\nFalsely accused of killing his partner, Arjun is a former officer on the lam who will not stop until he uncovers the truth behind the murder. Before he picked up the badge, he dreamt of being an actor.\n\nPick if you like:\nAvoid if you dislike:\n\nClassic & Modern Versions Comparison\n\nedit\n\nList of differences with Modern Arjun\n\nMissing Normals\n\nMissing Command Normals\n\nShortcut-Only Specials\n\nAssist Combos\n\nMiscellaneous Changes\n\nArjun\n\nVitals\n\nLife Points\n\n10500\n\nGround Movement\n\nForward Walk Speed\n\nBackward Walk Speed\n\nForward Dash Speed\n\nBackward Dash Speed\n\nForward Dash Distance\n\nBackward Dash Distance\n\nDrive Rush Min. Distance (Throw)\n\nDrive Rush Min. Distance (Block)\n\nDrive Rush Max Distance\n\nJumping\n\nJump Speed\n\nJump Apex\n\nForward Jump Distance\n\nBackward Jump Distance\n\nThrows\n\nThrow Range\n\nThrow Hurtbox\n\nFrame Data Tables / Hitbox Explanation - SF6\n\nHitbox Images\n\nRed: Attack hitbox\nPink: Throw hitbox\nGreen: Hurtbox (strikes/projectiles)\n\nCertain move properties, like Projectile Invuln or Air Invuln, may be printed onto the hurtbox and listed in the move description\n\nA complete lack of hurtboxes represents full invulnerability\n\nBlue: Throw hurtbox\n\nThrow will succeed if the pink throw hitbox overlaps with the blue throwable hurtbox\n\nOpponent must be on the ground (except for Air Throws which only target airborne opponents)\n\nTeal: Unique/Interaction box\n\nApplies character-specific effects when two of these hitboxes overlap\n\nExamples: Rashid's air current, Blanka's electric moves + Blanka-chan, Guile's Sonic Blade + Sonic Boom\n\nPurple: Armor/Counter Hitbox\n\nCan appear on top of green hurtboxes or replace them entirely\n\nOrange: Projectile Clash hitbox\n\nNot a projectile itself, but interacts with and destroys projectiles of the same priority\n\nLight Orange box on Drive Impact : represents the \"cinematic DI Slowdown\" interaction hitboxes\n\nActive\n\nHow many frames a move remains active (can hurt opponents) for. For projectiles with a maximum active period, a value may be listed in [brackets], but this number is not factored into the move's total frame count.\nFor multi-hit moves with no gaps between the active hitboxes, active frames are listed as X,Y (or sometimes X*Y)\n\nFor multi-hit moves with gaps between hits, active frames are listed as X(n)Y where n = the frame gap between hitboxes.\n\nCancel\n\nAvailable options for canceling one move into another move.\n\"Chn\": Chain cancel (Light normals; specific chain options listed in Description)\n\n\"TC\": Target Combo\n\n\"Sp\": Special move\n\n\"SA\": Super Art (if a number is listed, refers only to that specific Super; SA3 = Lv.3 Super Art)\n\n\"Jmp\": Jump cancel (usually on hit only, if applicable)\n\n\"SS\": Serenity Stream (Chun-Li's stance)\n\n\"PS\": Prowler Stance (Alex's stance)\nIf one hit of a multi-hit attack is cancelable, this can be indicated with (1st), (2nd), etc.\n\nOccasionally, a move can be canceled only into a specific follow-up (e.g. Dee Jay [4]6P > 22PP); this can be indicated by listing the move input in the Cancel field, or with an asterisk that is explained in the move notes (Sp*)\n\nCancel Hitconfirm Windows\n\nHitconfirm reaction windows into Special Moves, Target Combos, and Super Arts.\nRefers to the amount of time (in frames) you have to cancel one attack into another attack on reaction\ne.g. most cancelable 2MKs have a 13 frame window to cancel into a Special/Super on reaction, making them nearly impossible to hitconfirm\n\nCounts from the first frame the attack connects until the final cancelable frame\nVisual effects like hitsparks and HP drain do not actually occur until frame 2; the first frame is still counted to keep the numbers consistent with previous games, and because it is technically possible to start reacting to the character's reeling animation on frame 1\n\nIf a Target Combo is cancelable into another attack, the hitconfirm window will include the entire sequence starting from the first hit\nIf there is a frame gap on block between hits of the TC, the hitconfirm window may also be included for just the followup hit\n\nSome sequences like Ken's 5MP~HP TC may have a range of values listed (43f~47f). In this example, inputting 5MP~HP at its usual timing gives a 43f hitconfirm into a Special/Super. Delaying the chain into HP gives more total time for the final hitconfirm.\n\nDamage\n\nAttack damage on hit. Multi-hit moves may have the damage listed for individual hits as X,Y (or sometimes X*Y). Sometimes a move's damage changes depending on which active frame connects, or on cinematic vs. non-cinematic hits; in this case, multiple values may be listed, and it will be clarified in the move description.\n\nDamage Scaling\n\nSome moves cause additional damage scaling in combos. Refer to Game Data page for a more detailed breakdown.\nScaling Types:\n\nStarter: When a move begins the combo , the next attack is scaled by X percent\ne.g. Ryu 2MK (20% Starter) > Hadoken: Hadoken is at 80% damage scaling\n\nCombo: When a move is comboed into , the next attack is scaled by X percent or X number of hits\ne.g. Ryu 2HP > OD High Blade Kick (2-Hit Combo Scaling) > Shoryuken: Shoryuken is at 70% damage scaling (100% > 100% > [skip 80%] > 70%)\n\ne.g. Cammy 5HP > OD Spiral Arrow (5% Combo Scaling) > Cannon Spike: Cannon Spike is at 75% damage scaling (100% > 100% > [80-5 = 75%])\n\nImmediate: When a move is comboed into , this attack is scaled by X percent\ne.g. Drive Impact Crumple (20% Starter) > Throw (20% Immediate): Throw is at 60% damage scaling\n\nMultiplier: A damage scaling multiplier applies after Perfect Parry (50%) and mid-combo Drive Rush (15%). Any hits in the combo continue their usual damage scaling, but reduced by these amounts. These can bring the minimum scaling below the usual 10%, and they stack with each other; as a result, the minimum scaling can reach 4% using a long Drive Rush combo after Perfect Parry.\n\nMinimum Scaling: The lowest damage scaling that can be applied to an attack. Super Art Level 1/2/3 generally has 30%/40%/50% minimum scaling respectively. This ensures the attack will still do reasonable damage even at the end of a heavily scaled combo.\n\nDrive Rush Cancel Advantage\n\nRefers to the frame advantage when canceling a normal, command normal, or Target Combo into Drive Rush on hit or block (abbreviated as DRC for Drive Rush Cancel). This is calculated at the moment a follow-up attack can be input, not at the moment the character can block or perform movement options. An attack that with DRC +8 on Hit can link into an 8-frame attack, and DRC +4 on Block can create a true blockstring into a 4-frame attack.\nNote that any DRC on Block worse than +4 cannot form a true blockstring, allowing the opponent to interrupt with an invincible reversal. Most light normals are slightly negative after a DRC on block, meaning the opponent can mash their fastest normal to guarantee a counter-hit (though this requires fast reactions). The attacking character could punish this with Light > DRC into an immediate invincible attack, but this would be an incredibly expensive and high-risk gambit.\n\nForced Knockdown\n\nMost airborne command normals, special moves, and Super Arts put the user in a \"Forced Knockdown\" state. While in this state, an air knockdown will occur when being hit by any attack, even if it would otherwise cause an air reset.\nAs an example, Ryu's 2HP causes an air reset when used as an anti-air. Against a move like Cammy's Hooligan Combination, however, the 2HP puts her into an air knockdown state. This allows Ryu to successfully cancel 2HP into Shoryuken for a juggle, similar to how a Drive Impact wall splat works. Taking advantage of Forced Knockdown juggles is important for dealing with moves like Ken's Dragonlash, Dhalsim's Air Teleport, or Kimberly's 6HK~Hop sequence.\n\nMoves that already cause an air knockdown, like most j.MP air-to-airs, will not display the \"Forced Knockdown\" message.\n\nGuard\n\nRefers to the direction an attack must be blocked. L is for Low attacks (must be blocked crouching), H is for High attacks/overheads (must be blocked standing), LH is for attacks that can be blocked crouching or standing. T is for Throw attacks which cannot be blocked.\n\nJuggles\n\nWhen a character is put into an Air Knockdown state, it is often possible to follow up with a Juggle attack before they hit the ground. In the simplest terms, there are 2 main juggle states:\nFree Juggle: any attack can juggle, causing an Air Reset or an Air Knockdown\n\nLimited Juggle: only specific attacks with juggle potential may juggle\n\nThe following is a more detailed overview of the SF6 juggle system:\n\nJuggle Count (JC) : The status of the character being juggled. A high JC limits which attacks can work in juggles.\n\nJC0: free juggle state - any attack that can hit an airborne opponent will work\n\nJC1+: limited juggle state - juggle only works if the attack's Juggle Limit ≥ defender's Juggle Count\nA juggle count of -1 represents a crumple state; this can lead to a grounded or airborne hit depending on timing\n\nJuggle Start (JS) : When starting a juggle, the opponent's JC will be set to this value. May be different vs. standing and airborne opponents.\n\nAttack with Juggle Start value of 3 will put opponent at JC3, so only attacks with Juggle Limit value ≥ 3 can follow up\n\nEven for attacks that don't normally start a juggle, this is relevant for Forced Knockdown and Crumple situations\n\nJuggle Increase (JI) : When opponent is already in a juggle state, attacks will increase the opponent's JC by this amount.\n\nAirborne opponent at JC1 followed by attack with Juggle Increase value of 3 will set opponent to JC4\n\nJuggle Limit (JL) : Property of an attack hitbox that determines whether it connects on a juggled opponent. The JL must be ≥ the opponent's JC to hit successfully.\n\nAn uppercut with a JL value of 5 will connect on an opponent at JC5 or below, but will whiff on JC6 opponent\n\nMost normals have a JL value of 0, meaning they only work in Free Juggle (JC0) states\n\nSome multi-hit attacks have different JL values on each hit, so a 3-hit move may only hit twice in juggles\n\nAn example to tie everything together:\n\nAn attack (JS3) launches opponent into the air (Opponent now at JC3)\n\nFollowed up with an attack (JI2/JL4); it connects, because JL4 ≥ JC3 (Opponent now at JC5)\n\nAttempts to juggle again with same attack (JL4), but whiffs because JL4 < JC5 (Opponent hits the ground)\n\nDrive Rush notes:\n\nDR normals have a Juggle Start/Increase value of 0\n\nDR normals have +3 added to their usual Juggle Limit\n\nMore recently, the official definitions used by Capcom are slightly different than these community-designated terms. When reading official patch notes, the following terms are used instead:\n\nCombo Count Initial Value\n\nCombo Count Additional Value\n\nCombo Count Upper Limit\n\nOn Hit/Block\n\nThese are frame advantage values when the attack hits or is blocked. If the number is positive, then the move will recover before the defender can act again. If the number is negative, the defender will be able to act before the attacker and maybe even punish. KD refers to knockdown on hit, and the listed KD Advantage refers to how many frames the attacker can act before the defender finishes their wakeup animation.\nNote that generally, there is an extra +2 hit advantage on Counterhits and +4 hit advantage on Punish Counters (exceptions are noted in the description).\n\nRecovery\n\nHow many frames it takes for a move to finish after the active frames have finished. For projectiles, recovery is considered to begin after the first active frame.\nMoves with different recovery values on hit/block/whiff may have multiple values listed like X(Y), with specific details listed in the description.\n\nStartup\n\nHow many frames it takes before the move becomes 'active' or have a hit box. The last startup frame and the first active frame are the same frame, meaning all values are written as Startup + 1.\nMoves with multiple relevant startup values may be listed as X(Y); for example, a move that hits airborne first before hitting grounded opponents, or a 2-hit move where the first hit whiffs at some ranges.\n\nIASA / Actionable Recovery\n\nSome moves play out an extended recovery animation when no other button/direction is input (for crouching moves, it applies when holding any down direction). These are often referred to as \"actionable recovery\" frames; in some games, the term IASA (Interruptible As Soon As) refers to the frame that Actionable Recovery begins.\nLetting the Actionable Recovery frames play out can change the character's position, potentially setting up spacing traps by recovering farther away. For example, Manon 5HP will recover much farther away from the opponent if no input is performed immediately after her recovery; holding back or down-back to block will keep her much closer to the opponent.\n\nNormals\n\nedit\n\nStanding Normals\n\nedit\n\n5LP\n\nedit\n\nStanding Light Punch\n\n5LP ?\n\nFile:SF6 Arjun 5lp.png\n\nFile:SF6 Arjun 5lp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5LP\n\nStanding Light Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5MP\n\nedit\n\nStanding Medium Punch\n\n5MP ?\n\nFile:SF6 Arjun 5mp.png\n\nFile:SF6 Arjun 5mp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5MP\n\nStanding Medium Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5HP\n\nedit\n\nStanding Heavy Punch\n\n5HP A[H]\n\nFile:SF6 Arjun 5hp.png\n\nFile:SF6 Arjun 5hp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5HP\n\nStanding Heavy Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5LK\n\nedit\n\nStanding Light Kick\n\n5LK ?\n\nFile:SF6 Arjun 5lk.png\n\nFile:SF6 Arjun 5lk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5LK\n\nStanding Light Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5MK\n\nedit\n\nStanding Medium Kick\n\n5MK 5M\n\nFile:SF6 Arjun 5mk.png\n\nFile:SF6 Arjun 5mk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5MK\n\nStanding Medium Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5HK\n\nedit\n\nStanding Heavy Kick\n\n5HK 5H\n\nFile:SF6 Arjun 5hk.png\n\nFile:SF6 Arjun 5hk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5HK\n\nStanding Heavy Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nCrouching Normals\n\nedit\n\n2LP\n\nedit\n\nCrouching Light Punch\n\n2LP ?\n\nFile:SF6 Arjun 2lp.png\n\nFile:SF6 Arjun 2lp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n2LP\n\nCrouching Light Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n2MP\n\nedit\n\nCrouching Medium Punch\n\n2MP ?\n\nFile:SF6 Arjun 2mp.png\n\nFile:SF6 Arjun 2mp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n2MP\n\nCrouching Medium Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n2HP\n\nedit\n\nCrouching Heavy Punch\n\n2HP 2H\n\nFile:SF6 Arjun 2hp.png\n\nFile:SF6 Arjun 2hp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n2HP\n\nCrouching Heavy Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n2LK\n\nedit\n\nCrouching Light Kick\n\n2LK ?\n\nFile:SF6 Arjun 2lk.png\n\nFile:SF6 Arjun 2lk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n2LK\n\nCrouching Light Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n2MK\n\nedit\n\nCrouching Medium Kick\n\n2MK ?\n\nFile:SF6 Arjun 2mk.png\n\nFile:SF6 Arjun 2mk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n2MK\n\nCrouching Medium Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n2HK\n\nedit\n\nCrouching Heavy Kick\n\n2HK 3H\n\nFile:SF6 Arjun 2hk.png\n\nFile:SF6 Arjun 2hk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n2HK\n\nCrouching Heavy Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nJumping Normals\n\nedit\n\nj.LP\n\nedit\n\nJumping Light Punch\n\nj.LP ?\n\nFile:SF6 Arjun jlp.png\n\nFile:SF6 Arjun jlp hitbox.png\n\nHitboxes Off\nHitboxes On\n\nj.LP\n\nJumping Light Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n3 land\n\n-\n\n-\n\nH\n\n?(+?)\n\n? (+?)\n\nj.MP\n\nedit\n\nJumping Medium Punch\n\nj.MP ?\n\nFile:SF6 Arjun jmp.png\n\nFile:SF6 Arjun jmp hitbox.png\n\nHitboxes Off\nHitboxes On\n\nj.MP\n\nJumping Medium Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n3 land\n\n-\n\n-\n\nH\n\n?(+)\n\n?(+)\n\nj.HP\n\nedit\n\nJumping Heavy Punch\n\nj.HP ?\n\nFile:SF6 Arjun jhp.png\n\nFile:SF6 Arjun jhp hitbox.png\n\nHitboxes Off\nHitboxes On\n\nj.HP\n\nJumping Heavy Punch\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n3 land\n\n-\n\n-\n\nH\n\n?(+)\n\n?(+)\n\nj.LK\n\nedit\n\nJumping Light Kick\n\nj.LK ?\n\nFile:SF6 Arjun jlk.png\n\nFile:SF6 Arjun jlk hitbox.png\n\nHitboxes Off\nHitboxes On\n\nj.LK\n\nJumping Light Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n3 land\n\n-\n\n-\n\nH\n\n?(+?)\n\n? (+?)\n\nj.MK\n\nedit\n\nJumping Medium Kick\n\nj.MK ?\n\nFile:SF6 Arjun jmk.png\n\nFile:SF6 Arjun jmk hitbox.png\n\nHitboxes Off\nHitboxes On\n\nj.MK\n\nJumping Medium Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n3 land\n\n-\n\n-\n\nH\n\n?(+)\n\n?(+)\n\nj.HK\n\nedit\n\nJumping Heavy Kick\n\nj.HK ?\n\nFile:SF6 Arjun jhk.png\n\nFile:SF6 Arjun jhk hitbox.png\n\nHitboxes Off\nHitboxes On\n\nj.HK\n\nJumping Heavy Kick\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n3 land\n\n-\n\n-\n\nH\n\n?(+)\n\n?(+)\n\nCan hit cross-up\n\nCommand Normals\n\nedit\n\n6HP\n\nedit\n\nOverhead\n6HP 6H\n\nFile:SF6 Arjun 6hp.png\n\nFile:SF6 Arjun 6hp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n6HP\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n6HK\n\nedit\n\nHopkick\n6HK --\n\nFile:SF6 Arjun 6hk.png\n\nFile:SF6 Arjun 6hk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n6HK\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nTarget Combos\n\nedit\n\n5MK~HK\n\nedit\n\nMK TC\n5MK~HK 5M~M\n\nFile:SF6 Arjun 5mk hk.png\n\nFile:SF6 Arjun 5mk hk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5MK~HK\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5HP~HP~HP/HK\n\nedit\n\nHP TC\n5HP~HP~HP/HK A[H~H~H/6H]\n\nFile:SF6 Arjun 5hp hp.png\n\nFile:SF6 Arjun 5hp hp hp.png\n\nFile:SF6 Arjun 5hp hp hk.png\n\nFile:SF6 Arjun 5hp hp hitbox.png\n\nFile:SF6 Arjun 5hp hp hp hitbox.png\n\nFile:SF6 Arjun 5hp hp hk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5HP~HP\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5HP~HP~HP\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5HP~HP~HK\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n5HK~HP\n\nedit\n\nHK TC\n5HK~HP 5H~H\n\nFile:SF6 Arjun 5hk hp.png\n\nFile:SF6 Arjun 5hk hp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n5HK~HP\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nThrows\n\nedit\n\nForward Throw (LPLK)\n\nedit\n\nForward Throw\n\nLPLK LM\n\nFile:SF6 Arjun lplk.png\n\nFile:SF6 Arjun lplk hitbox.png\n\nHitboxes Off\nHitboxes On\n\nLPLK\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n5\n\n3\n\n23\n\n-\n\n1200 (2040)\n\nT\n\nKD +\n\n-\n\nPunish Counter : HKD +? (also doubles the Super Gauge increase for the attacker only)\n\nApplies 20% immediate damage scaling when comboed into (e.g. after Crumple)\n\nSuccessful Throw Escape builds 1/2 bar of Drive Gauge for the defender\nAwarded to random player if Throws are input simultaneously\n\nBack Throw (4LPLK)\n\nedit\n\nBack Throw\n\n4LPLK 4LM\n\nFile:SF6 Arjun 4lplk.png\n\nFile:SF6 Arjun lplk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n4LPLK\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n5\n\n3\n\n23\n\n-\n\n1200 (2040)\n\nT\n\nKD +\n\n-\n\nSide switches\n\nPunish Counter : HKD +? (also doubles the Super Gauge increase for the attacker only)\n\nApplies 20% immediate damage scaling when comboed into (e.g. after Crumple)\n\nSuccessful Throw Escape builds 1/2 bar of Drive Gauge for the defender\nAwarded to random player if Throws are input simultaneously\n\nDrive System\n\nedit\n\nDrive Impact (HPHK)\n\nedit\n\nDrive Impact\n\nHPHK DI\n\nFile:SF6 Arjun hphk.png\n\nFile:SF6 Arjun hphk hitbox.png\n\nHitboxes Off\nHitboxes On\n\nHPHK\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n26\n\n2\n\n35\n\n-\n\n800\n\nLH\n\nKD +35 / Wall Splat KD +65\n\n-3 / Wall Splat HKD +72\n\nArmor (2-hit): 1-27f; Range: ? (? movement + ? hitbox)\n\nOn Hit/PC: Applies 20% damage scaling to next hit when beginning a combo\n\nOn Block: Applies 20% scaling multiplier to all follow-up hits after Wall Splat; the next attack can incur additional Starter Scaling\n\nA blocked DI can combo into another DI if opponent is not fully cornered (Stuns if opponent has less than 1.5 Drive bars)\nThis happens because a blocked DI is not considered a \"hit\" for combo purposes\n\nCauses both the 20% Starter and 20% Multiplier scaling to apply to the follow-up combo\n\nSee Drive Impact on the Gauges page for more details.\n\nCancels into Drive Impact - Blockstring Gaps\n\nGap on Block (Burnout)\nGap on CH\nGap on Hit\n\nDR~ ?\n\n?\n?\n?\n\n?\n\n?\n?\n?\n\nThe following moves combo into DI when canceled: (useful when prioritizing Drive control, like after Perfect Parry)\n\n?\n\nPC ?\n\nIf delaying the DI Cancel can be used to avoid LOCK: The gap is written as X (~Y*) where Y is the maximum gap\n\nLOCK: occurs when DI connects as a true blockstring or combo This can no longer cause a Stun or Wall Splat in the corner\n\nA 6-frame gap loses to Throws A 9-frame gap (10 for Lily/Zangief) can be jumped out of\n\nCharacter-specific meterless counters to DI\nJP Amnesia (22K): 3F counter\n\nMarisa Scutum (214K): 3F armor\n\nZangief Held 5HP : 4F armor\n\nDrive Reversal (6HPHK)\n\nedit\n\nDrive Reversal\n\n6HPHK 6DI\n\nFile:SF6 Arjun 6hphk.png\n\nFile:SF6 Arjun 6hphk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n6HPHK\n\n? (Block)\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n20\n\n3\n\n26(31)\n\n-\n\n500 recoverable\n\nLH\n\nKD +23\n\n-6\n\nFull Invuln: 1-22f; Range: ?; Armor Break\n\n5f extra recovery on hit; 4f screen freeze during startup\n\n6HPHK\n\n? (Recovery)\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n18\n\n3\n\n26(31)\n\n-\n\n500 recoverable\n\nLH\n\nKD +23\n\n-6\n\nFull Invuln: 1-20f; Range: ?; Armor Break\n\n5f extra recovery on hit; no screen freeze\n\nIf the startup overlaps with the opponent's Throw hitbox, a 12f screen freeze occurs and refunds 1 Drive bar on hit\nThis does not prevent Burnout if under 2 bars, but makes it less expensive to counter throw loops\n\nSee Drive Reversal on the Gauges page for more details.\n\nDrive Parry (MPMK)\n\nedit\n\nDrive Parry\n\nMPMK DP\n\nFile:SF6 Arjun mpmk.png\n\nFile:SF6 Arjun mpmk hitbox.png\n\nHitboxes Off\nHitboxes On\n\nMPMK\n\nDrive Parry\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n1\n\n12 or until released\n\n33(1)(11)\n\n-\n\n-\n\n-\n\n-\n\n-\n\nSee Drive Parry on the Gauges page for more details.\n\nPerfect Parry:\nApplies a 50% damage scaling multiplier to any punish afterwards\n\nvs. strikes, has only 1f recovery and prevents the opponent from canceling their attack\n\nvs. projectiles, puts you into a fixed 11f recovery\n\nDrive Rush (MPMK~66)\n\nedit\n\nDrive Rush\n\nMPMK~66 DP~66\n\nFile:SF6 Arjun 66.png\n\nFile:SF6 Arjun 66 hitbox.png\n\nHitboxes Off\nHitboxes On\n\nMPMK~66\n\nParry Drive Rush\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n3+8\n\n-\n\n15(37)\n\n-\n\n-\n\n-\n\n-\n\n-\n\n1-bar version performed out of Parry\n\nStartup is 1+8 immediately after successful Parry\n\nMPMK or 66\n\nDrive Rush Cancel\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n9\n\n-\n\n15(37)\n\n-\n\n-\n\n-\n\n-\n\n-\n\n3-bar version performed on hit/block from a cancelable normal\nCan also be performed from whiffed cancelable light normals\n\nSee Drive Rush on the Gauges page for more details. See Strategy page for Blockstring Gaps and Combo Routes\n\nStartup refers to minimum time before an attack can cancel the Drive Rush animation\n\nThe first 15 recovery frames are cancelabe into any attack\n\nThe final 22 recovery frames are cancelable into any attack or movement option or blocking (except Parry)\n\nOnly Normal and Command Normal attacks are enhanced with +4 frame advantage and improved juggle properties\n\nApplies 15% damage scaling multiplier to any follow-up hits when used mid-combo\nOnly applies scaling once per combo; does not apply when a Drive Rush enhanced attack starts the combo\n\nDistance:\n\n? (min, cancel into immediate Throw)\n\n? (min, earliest blocking/movement frame)\n\n? (max, final DR frame)\n\nSpecial Moves\n\nedit\n\nArm of Justice (236P)\n\nedit\n\nArm of Justice\n\n236P ? or 5S (?)\n\nFile:SF6 Arjun 236lp.png\n\nFile:SF6 Arjun 236lp hitbox.png\n\nFile:SF6 Arjun 236pp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n236LP\n\nLP Arm of Justice\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n+?\n\n-?\n\n236MP\n\nMP Arm of Justice\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n+?\n\n-?\n\n236HP\n\nHP Arm of Justice\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nKD +?\n\n+?\n\n236PP\n\nOD Arm of Justice\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n+?\n\nArm follow-up (236P~6P)\n\nedit\n\nArm follow-up\n\n236P~6P ?/5S~6X (?)\n\nFile:SF6 Arjun 236lp 6p.png\n\nFile:SF6 Arjun 236lp 6p hitbox.png\n\nFile:SF6 Arjun 236pp 6p hitbox.png\n\nHitboxes Off\nHitboxes On\n\n236LP~6P\n\nLP Arm follow-up\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236MP~6P\n\nMP Arm follow-up\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236HP~6P\n\nHP Arm follow-up\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236PP~6P\n\nOD Arm follow-up\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nCruel Shoulder (623P)\n\nedit\n\nCruel Shoulder\n\n623P 623X or 6S (?)\n\nFile:SF6 Arjun 623lp.png\n\nFile:SF6 Arjun 623lp hitbox.png\n\nFile:SF6 Arjun 623pp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n623LP\n\nLP Cruel Shoulder\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nKD +?\n\n-?\n\n623MP\n\nMP Cruel Shoulder\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nKD +?\n\n-?\n\n623HP\n\nHP Cruel Shoulder\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nKD +?\n\n+?\n\n623PP\n\nOD Cruel Shoulder\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n+?\n\nJustice Beyond (214X~623P)\n\nedit\n\nJustice Beyond\nPillar Shoulder\n214X~623P 1S/2S/3S~623X/6S\n\nFile:SF6 Arjun 214k 623p.png\n\nFile:SF6 Arjun 214k 623p hitbox.png\n\nFile:SF6 Arjun 214k 623p hitbox.png\n\nHitboxes Off\nHitboxes On\n\n214K~623P\n\nJustice Beyond\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n214K~623PP\n\nOD Justice Beyond\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nBreathing Ring (236K)\n\nedit\n\nBreathing Ring\n\n236K ? or 4S (?)\n\nFile:SF6 Arjun 236lk.png\n\nFile:SF6 Arjun 236lk hitbox.png\n\nFile:SF6 Arjun 236kk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n236LK\n\nLK Breathing Ring\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236MK\n\nMK Breathing Ring\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236HK\n\nHK Breathing Ring\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236KK\n\nOD Breathing Ring\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nBreathing Shockwave (236K~6P)\n\nedit\n\nBreathing Shockwave\n\n236K~6P ?/4S~6X\n\nFile:SF6 Arjun 236lk 6p.png\n\nFile:SF6 Arjun 236lk 6p hitbox.png\n\nFile:SF6 Arjun 236kk 6p hitbox.png\n\nHitboxes Off\nHitboxes On\n\n236LK~6P\n\nLK Breathing Shockwave\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236MK~6P\n\nMK Breathing Shockwave\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236HK~6P\n\nHK Breathing Shockwave\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n236KK~6P\n\nOD Breathing Shockwave\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nDivine Pillar (214K)\n\nedit\n\nDivine Pillar\n\n214K 1S/2S/3S\n\nFile:SF6 Arjun 214k.png\n\nFile:SF6 Arjun 214k hitbox.png\n\nFile:SF6 Arjun 214kk hitbox.png\n\nHitboxes Off\nHitboxes On\n\n214K\n\nDivine Pillar\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n214KK\n\nOD Divine Pillar\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nGhastly Interrogation (63214P)\n\nedit\n\nGhastly Interrogation\nCommand Grab\n63214P 63214X\n\nFile:SF6 Arjun 63214p.png\n\nFile:SF6 Arjun 63214p hitbox.png\n\nFile:SF6 Arjun 63214pp hitbox.png\n\nHitboxes Off\nHitboxes On\n\n63214P\n\nGhastly Interrogation\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\nT\n\n-\n\n-\n\n63214PP\n\nOD Ghastly Interrogation\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\nT\n\n-\n\n-\n\nIndomitable Defense (22HK)\n\nedit\n\nIndomitable Defense\nFlex Walk\n22HK 22H\n\nFile:SF6 Arjun 22hk.png\n\nFile:SF6 Arjun 22hk p.png\n\nFile:SF6 Arjun 22hk hitbox.png\n\nFile:SF6 Arjun 22hk p hitbox.png\n\nHitboxes Off\nHitboxes On\n\n22HK\n\nIndomitable Defense\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n22HK~P\n\nMoral Breakdown\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\nLH\n\nKD +?\n\n+?\n\nSuper Arts\n\nedit\n\nLevel 1 Super (236236K)\n\nedit\n\nHowling Destruction\nLevel 1 Super Art\n236236K 236236L or 5/6HS\n\nFile:SF6 Arjun 236236k.png \"\"\n\nFile:SF6 Arjun 236236k hitbox.png\n\nHitboxes Off\nHitboxes On\n\n236236K\n\nHowling Destruction\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\nLH\n\nKD +?\n\n-\n\nStrike/Throw Invuln: 1-?f; Armor Break\n\nLevel 2 Super (214214P)\n\nedit\n\nInstant Oblivion\nLevel 2 Super Art\n214214P 214214M or 4HS\n\nFile:SF6 Arjun 214214p.png \"\"\n\nFile:SF6 Arjun 214214p hitbox.png\n\nHitboxes Off\nHitboxes On\n\n214214P\n\nInstant Oblivion\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n-\n\nLH\n\nKD +?\n\n-\n\nFull Invuln: 1-?f; Armor Break\n\nLevel 3 Super (236236P)\n\nedit\n\nYaksha's Order\nLevel 3 Super Art\n236236P 236236H or 2HS\n\nFile:SF6 Arjun 236236p.png \"Tell me what you see!\" \"Righteousness? Wickedness?\" \"Is there one without the other?\" \"ANSWER ME!\"\n\nFile:SF6 Arjun 236236p ca.png \"\"\n\nFile:SF6 Arjun 236236p hitbox.png\n\nHitboxes Off\nHitboxes On\n\n236236P\n\nYaksha's Order\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n4000\n\nLH\n\nHKD +?\n\n-\n\nFull Invuln: 1-?f; Armor Break\n\n236236P\n\nYaksha's Order (CA)\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n-\n\n-\n\n-\n\n-\n\n4500\n\nLH\n\nHKD +?\n\n-\n\nFull Invuln: 1-?f; Armor Break\n\nAvailable at 25% HP or below\n\nTaunts\n\nedit\n\nNeutral Taunt (5PPPKKK)\n\nedit\n\nNeutral Taunt\n\n5PPPKKK 5LMHS+DP+A\n\nFile:SF6 Arjun 5pppkkk.png \"\"\n\nLua error in mw.text.lua at line 246: bad argument #1 to 'len' (string expected, got nil). \"\"\n\nHitboxes Off\nHitboxes On\n\n5PPPKKK\n\nNeutral Taunt\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n(total)\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nForward Taunt (6PPPKKK)\n\nedit\n\nForward Taunt\n\n6PPPKKK 6LMHS+DP+A\n\nFile:SF6 Arjun 6pppkkk.png \"\"\n\nLua error in mw.text.lua at line 246: bad argument #1 to 'len' (string expected, got nil). \"\"\n\nHitboxes Off\nHitboxes On\n\n6PPPKKK\n\nForward Taunt\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n(total)\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nBack Taunt (4PPPKKK)\n\nedit\n\nBack Taunt\n\n4PPPKKK 4LMHS+DP+A\n\nFile:SF6 Arjun 4pppkkk.png \"\"\n\nLua error in mw.text.lua at line 246: bad argument #1 to 'len' (string expected, got nil). \"\"\n\nHitboxes Off\nHitboxes On\n\n4PPPKKK\n\nBack Taunt\n\nStartup\n\nActive\n\nRecovery\n\nCancel\n\nDamage\n\nGuard\n\nOn Hit\n\nOn Block\n\n(total)\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\nOverview\nCombos\nStrategy\nMatchups\nFrame Data\nResources\nReplay Database\nMatch Footage\n#SF6_Arjun\n\nSF6 Navigation\n\nStreet Fighter 6 (SF6)\n\nGeneral\n\nFAQ •\n\nControls •\n\nHUD •\n\nGlossary •\n\nMovement •\n\nOffense •\n\nDefense •\n\nGauges •\n\nGame Data •\n\nPatch Notes •\n\nLinks\n\nCharacters\n\nA.K.I.\n\nAkuma\n\nAlex\n\nBlanka\n\nC. Viper\n\nCammy\n\nChun-Li\n\nDee Jay\n\nDhalsim\n\nEd\n\nE. Honda\n\nElena\n\nGuile\n\nIngrid\n\nJamie\n\nJP\n\nJuri\n\nKen\n\nKimberly\n\nLily\n\nLuke\n\nM. Bison\n\nMai\n\nManon\n\nMarisa\n\nRashid\n\nRyu\n\nSagat\n\nTerry\n\nYasmine\n\nZangief\n\nData\n\nA.K.I. •\n\nAkuma •\n\nAlex •\n\nBlanka •\n\nC. Viper •\n\nCammy •\n\nChun-Li •\n\nDee Jay •\n\nDhalsim •\n\nEd •\n\nE. Honda •\n\nElena •\n\nGuile •\n\nIngrid •\n\nJamie •\n\nJP •\n\nJuri •\n\nKen •\n\nKimberly •\n\nLily •\n\nLuke •\n\nM. Bison •\n\nMai •\n\nManon •\n\nMarisa •\n\nRashid •\n\nRyu •\n\nSagat •\n\nTerry •\n\nYasmine •\n\nZangief",
+  "tables": [
+    [
+      [
+        "",
+        "Character breakdown in progress\n\nArjun is a new character ! This page is currently under construction and information might be inaccurate, incomplete, or missing entirely.\n\n🤝 Want to help us out? Join the SF6 Resource Hub for more info on editing and other ways you can potentially help with this resource."
+      ]
+    ],
+    [
+      [
+        "Pick if you like:",
+        "Avoid if you dislike:"
+      ],
+      [
+        "",
+        ""
+      ]
+    ],
+    [
+      [
+        "Missing Normals",
+        ""
+      ],
+      [
+        "Missing Command Normals",
+        ""
+      ],
+      [
+        "Shortcut-Only Specials",
+        ""
+      ],
+      [
+        "Assist Combos",
+        ""
+      ],
+      [
+        "Miscellaneous Changes",
+        ""
+      ]
+    ],
+    [
+      [
+        "Arjun"
+      ],
+      [
+        ""
+      ],
+      [
+        "Vitals"
+      ],
+      [
+        "Life Points",
+        "10500"
+      ],
+      [
+        "Ground Movement"
+      ],
+      [
+        "Forward Walk Speed",
+        ""
+      ],
+      [
+        "Backward Walk Speed",
+        ""
+      ],
+      [
+        "Forward Dash Speed",
+        ""
+      ],
+      [
+        "Backward Dash Speed",
+        ""
+      ],
+      [
+        "Forward Dash Distance",
+        ""
+      ],
+      [
+        "Backward Dash Distance",
+        ""
+      ],
+      [
+        "Drive Rush Min. Distance (Throw)",
+        ""
+      ],
+      [
+        "Drive Rush Min. Distance (Block)",
+        ""
+      ],
+      [
+        "Drive Rush Max Distance",
+        ""
+      ],
+      [
+        "Jumping"
+      ],
+      [
+        "Jump Speed",
+        ""
+      ],
+      [
+        "Jump Apex",
+        ""
+      ],
+      [
+        "Forward Jump Distance",
+        ""
+      ],
+      [
+        "Backward Jump Distance",
+        ""
+      ],
+      [
+        "Throws"
+      ],
+      [
+        "Throw Range",
+        ""
+      ],
+      [
+        "Throw Hurtbox",
+        ""
+      ]
+    ],
+    [
+      [
+        "Frame Data Tables / Hitbox Explanation - SF6"
+      ],
+      [
+        "Hitbox Images",
+        "Red: Attack hitbox\nPink: Throw hitbox\nGreen: Hurtbox (strikes/projectiles)\n\nCertain move properties, like Projectile Invuln or Air Invuln, may be printed onto the hurtbox and listed in the move description\n\nA complete lack of hurtboxes represents full invulnerability\n\nBlue: Throw hurtbox\n\nThrow will succeed if the pink throw hitbox overlaps with the blue throwable hurtbox\n\nOpponent must be on the ground (except for Air Throws which only target airborne opponents)\n\nTeal: Unique/Interaction box\n\nApplies character-specific effects when two of these hitboxes overlap\n\nExamples: Rashid's air current, Blanka's electric moves + Blanka-chan, Guile's Sonic Blade + Sonic Boom\n\nPurple: Armor/Counter Hitbox\n\nCan appear on top of green hurtboxes or replace them entirely\n\nOrange: Projectile Clash hitbox\n\nNot a projectile itself, but interacts with and destroys projectiles of the same priority\n\nLight Orange box on Drive Impact : represents the \"cinematic DI Slowdown\" interaction hitboxes"
+      ],
+      [
+        "Active",
+        "How many frames a move remains active (can hurt opponents) for. For projectiles with a maximum active period, a value may be listed in [brackets], but this number is not factored into the move's total frame count.\nFor multi-hit moves with no gaps between the active hitboxes, active frames are listed as X,Y (or sometimes X*Y)\n\nFor multi-hit moves with gaps between hits, active frames are listed as X(n)Y where n = the frame gap between hitboxes."
+      ],
+      [
+        "Cancel",
+        "Available options for canceling one move into another move.\n\"Chn\": Chain cancel (Light normals; specific chain options listed in Description)\n\n\"TC\": Target Combo\n\n\"Sp\": Special move\n\n\"SA\": Super Art (if a number is listed, refers only to that specific Super; SA3 = Lv.3 Super Art)\n\n\"Jmp\": Jump cancel (usually on hit only, if applicable)\n\n\"SS\": Serenity Stream (Chun-Li's stance)\n\n\"PS\": Prowler Stance (Alex's stance)\nIf one hit of a multi-hit attack is cancelable, this can be indicated with (1st), (2nd), etc.\n\nOccasionally, a move can be canceled only into a specific follow-up (e.g. Dee Jay [4]6P > 22PP); this can be indicated by listing the move input in the Cancel field, or with an asterisk that is explained in the move notes (Sp*)"
+      ],
+      [
+        "Cancel Hitconfirm Windows",
+        "Hitconfirm reaction windows into Special Moves, Target Combos, and Super Arts.\nRefers to the amount of time (in frames) you have to cancel one attack into another attack on reaction\ne.g. most cancelable 2MKs have a 13 frame window to cancel into a Special/Super on reaction, making them nearly impossible to hitconfirm\n\nCounts from the first frame the attack connects until the final cancelable frame\nVisual effects like hitsparks and HP drain do not actually occur until frame 2; the first frame is still counted to keep the numbers consistent with previous games, and because it is technically possible to start reacting to the character's reeling animation on frame 1\n\nIf a Target Combo is cancelable into another attack, the hitconfirm window will include the entire sequence starting from the first hit\nIf there is a frame gap on block between hits of the TC, the hitconfirm window may also be included for just the followup hit\n\nSome sequences like Ken's 5MP~HP TC may have a range of values listed (43f~47f). In this example, inputting 5MP~HP at its usual timing gives a 43f hitconfirm into a Special/Super. Delaying the chain into HP gives more total time for the final hitconfirm."
+      ],
+      [
+        "Damage",
+        "Attack damage on hit. Multi-hit moves may have the damage listed for individual hits as X,Y (or sometimes X*Y). Sometimes a move's damage changes depending on which active frame connects, or on cinematic vs. non-cinematic hits; in this case, multiple values may be listed, and it will be clarified in the move description."
+      ],
+      [
+        "Damage Scaling",
+        "Some moves cause additional damage scaling in combos. Refer to Game Data page for a more detailed breakdown.\nScaling Types:\n\nStarter: When a move begins the combo , the next attack is scaled by X percent\ne.g. Ryu 2MK (20% Starter) > Hadoken: Hadoken is at 80% damage scaling\n\nCombo: When a move is comboed into , the next attack is scaled by X percent or X number of hits\ne.g. Ryu 2HP > OD High Blade Kick (2-Hit Combo Scaling) > Shoryuken: Shoryuken is at 70% damage scaling (100% > 100% > [skip 80%] > 70%)\n\ne.g. Cammy 5HP > OD Spiral Arrow (5% Combo Scaling) > Cannon Spike: Cannon Spike is at 75% damage scaling (100% > 100% > [80-5 = 75%])\n\nImmediate: When a move is comboed into , this attack is scaled by X percent\ne.g. Drive Impact Crumple (20% Starter) > Throw (20% Immediate): Throw is at 60% damage scaling\n\nMultiplier: A damage scaling multiplier applies after Perfect Parry (50%) and mid-combo Drive Rush (15%). Any hits in the combo continue their usual damage scaling, but reduced by these amounts. These can bring the minimum scaling below the usual 10%, and they stack with each other; as a result, the minimum scaling can reach 4% using a long Drive Rush combo after Perfect Parry.\n\nMinimum Scaling: The lowest damage scaling that can be applied to an attack. Super Art Level 1/2/3 generally has 30%/40%/50% minimum scaling respectively. This ensures the attack will still do reasonable damage even at the end of a heavily scaled combo."
+      ],
+      [
+        "Drive Rush Cancel Advantage",
+        "Refers to the frame advantage when canceling a normal, command normal, or Target Combo into Drive Rush on hit or block (abbreviated as DRC for Drive Rush Cancel). This is calculated at the moment a follow-up attack can be input, not at the moment the character can block or perform movement options. An attack that with DRC +8 on Hit can link into an 8-frame attack, and DRC +4 on Block can create a true blockstring into a 4-frame attack.\nNote that any DRC on Block worse than +4 cannot form a true blockstring, allowing the opponent to interrupt with an invincible reversal. Most light normals are slightly negative after a DRC on block, meaning the opponent can mash their fastest normal to guarantee a counter-hit (though this requires fast reactions). The attacking character could punish this with Light > DRC into an immediate invincible attack, but this would be an incredibly expensive and high-risk gambit."
+      ],
+      [
+        "Forced Knockdown",
+        "Most airborne command normals, special moves, and Super Arts put the user in a \"Forced Knockdown\" state. While in this state, an air knockdown will occur when being hit by any attack, even if it would otherwise cause an air reset.\nAs an example, Ryu's 2HP causes an air reset when used as an anti-air. Against a move like Cammy's Hooligan Combination, however, the 2HP puts her into an air knockdown state. This allows Ryu to successfully cancel 2HP into Shoryuken for a juggle, similar to how a Drive Impact wall splat works. Taking advantage of Forced Knockdown juggles is important for dealing with moves like Ken's Dragonlash, Dhalsim's Air Teleport, or Kimberly's 6HK~Hop sequence.\n\nMoves that already cause an air knockdown, like most j.MP air-to-airs, will not display the \"Forced Knockdown\" message."
+      ],
+      [
+        "Guard",
+        "Refers to the direction an attack must be blocked. L is for Low attacks (must be blocked crouching), H is for High attacks/overheads (must be blocked standing), LH is for attacks that can be blocked crouching or standing. T is for Throw attacks which cannot be blocked."
+      ],
+      [
+        "Juggles",
+        "When a character is put into an Air Knockdown state, it is often possible to follow up with a Juggle attack before they hit the ground. In the simplest terms, there are 2 main juggle states:\nFree Juggle: any attack can juggle, causing an Air Reset or an Air Knockdown\n\nLimited Juggle: only specific attacks with juggle potential may juggle\n\nThe following is a more detailed overview of the SF6 juggle system:\n\nJuggle Count (JC) : The status of the character being juggled. A high JC limits which attacks can work in juggles.\n\nJC0: free juggle state - any attack that can hit an airborne opponent will work\n\nJC1+: limited juggle state - juggle only works if the attack's Juggle Limit ≥ defender's Juggle Count\nA juggle count of -1 represents a crumple state; this can lead to a grounded or airborne hit depending on timing\n\nJuggle Start (JS) : When starting a juggle, the opponent's JC will be set to this value. May be different vs. standing and airborne opponents.\n\nAttack with Juggle Start value of 3 will put opponent at JC3, so only attacks with Juggle Limit value ≥ 3 can follow up\n\nEven for attacks that don't normally start a juggle, this is relevant for Forced Knockdown and Crumple situations\n\nJuggle Increase (JI) : When opponent is already in a juggle state, attacks will increase the opponent's JC by this amount.\n\nAirborne opponent at JC1 followed by attack with Juggle Increase value of 3 will set opponent to JC4\n\nJuggle Limit (JL) : Property of an attack hitbox that determines whether it connects on a juggled opponent. The JL must be ≥ the opponent's JC to hit successfully.\n\nAn uppercut with a JL value of 5 will connect on an opponent at JC5 or below, but will whiff on JC6 opponent\n\nMost normals have a JL value of 0, meaning they only work in Free Juggle (JC0) states\n\nSome multi-hit attacks have different JL values on each hit, so a 3-hit move may only hit twice in juggles\n\nAn example to tie everything together:\n\nAn attack (JS3) launches opponent into the air (Opponent now at JC3)\n\nFollowed up with an attack (JI2/JL4); it connects, because JL4 ≥ JC3 (Opponent now at JC5)\n\nAttempts to juggle again with same attack (JL4), but whiffs because JL4 < JC5 (Opponent hits the ground)\n\nDrive Rush notes:\n\nDR normals have a Juggle Start/Increase value of 0\n\nDR normals have +3 added to their usual Juggle Limit\n\nMore recently, the official definitions used by Capcom are slightly different than these community-designated terms. When reading official patch notes, the following terms are used instead:\n\nCombo Count Initial Value\n\nCombo Count Additional Value\n\nCombo Count Upper Limit"
+      ],
+      [
+        "On Hit/Block",
+        "These are frame advantage values when the attack hits or is blocked. If the number is positive, then the move will recover before the defender can act again. If the number is negative, the defender will be able to act before the attacker and maybe even punish. KD refers to knockdown on hit, and the listed KD Advantage refers to how many frames the attacker can act before the defender finishes their wakeup animation.\nNote that generally, there is an extra +2 hit advantage on Counterhits and +4 hit advantage on Punish Counters (exceptions are noted in the description)."
+      ],
+      [
+        "Recovery",
+        "How many frames it takes for a move to finish after the active frames have finished. For projectiles, recovery is considered to begin after the first active frame.\nMoves with different recovery values on hit/block/whiff may have multiple values listed like X(Y), with specific details listed in the description."
+      ],
+      [
+        "Startup",
+        "How many frames it takes before the move becomes 'active' or have a hit box. The last startup frame and the first active frame are the same frame, meaning all values are written as Startup + 1.\nMoves with multiple relevant startup values may be listed as X(Y); for example, a move that hits airborne first before hitting grounded opponents, or a 2-hit move where the first hit whiffs at some ranges."
+      ],
+      [
+        "IASA / Actionable Recovery",
+        "Some moves play out an extended recovery animation when no other button/direction is input (for crouching moves, it applies when holding any down direction). These are often referred to as \"actionable recovery\" frames; in some games, the term IASA (Interruptible As Soon As) refers to the frame that Actionable Recovery begins.\nLetting the Actionable Recovery frames play out can change the character's position, potentially setting up spacing traps by recovering farther away. For example, Manon 5HP will recover much farther away from the opponent if no input is performed immediately after her recovery; holding back or down-back to block will keep her much closer to the opponent."
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "3 land",
+        "-",
+        "-",
+        "H",
+        "?(+?)",
+        "? (+?)"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "3 land",
+        "-",
+        "-",
+        "H",
+        "?(+)",
+        "?(+)"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "3 land",
+        "-",
+        "-",
+        "H",
+        "?(+)",
+        "?(+)"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "3 land",
+        "-",
+        "-",
+        "H",
+        "?(+?)",
+        "? (+?)"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "3 land",
+        "-",
+        "-",
+        "H",
+        "?(+)",
+        "?(+)"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "3 land",
+        "-",
+        "-",
+        "H",
+        "?(+)",
+        "?(+)"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "5",
+        "3",
+        "23",
+        "-",
+        "1200 (2040)",
+        "T",
+        "KD +",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "5",
+        "3",
+        "23",
+        "-",
+        "1200 (2040)",
+        "T",
+        "KD +",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "26",
+        "2",
+        "35",
+        "-",
+        "800",
+        "LH",
+        "KD +35 / Wall Splat KD +65",
+        "-3 / Wall Splat HKD +72"
+      ]
+    ],
+    [
+      [
+        "",
+        "Gap on Block (Burnout)",
+        "Gap on CH",
+        "Gap on Hit"
+      ],
+      [
+        "DR~ ?",
+        "?",
+        "?",
+        "?"
+      ],
+      [
+        "?",
+        "?",
+        "?",
+        "?"
+      ],
+      [
+        "The following moves combo into DI when canceled: (useful when prioritizing Drive control, like after Perfect Parry)"
+      ],
+      [
+        "?",
+        "PC ?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "20",
+        "3",
+        "26(31)",
+        "-",
+        "500 recoverable",
+        "LH",
+        "KD +23",
+        "-6"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "18",
+        "3",
+        "26(31)",
+        "-",
+        "500 recoverable",
+        "LH",
+        "KD +23",
+        "-6"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "1",
+        "12 or until released",
+        "33(1)(11)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "3+8",
+        "-",
+        "15(37)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "9",
+        "-",
+        "15(37)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "+?",
+        "-?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "+?",
+        "-?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "KD +?",
+        "+?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "+?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "KD +?",
+        "-?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "KD +?",
+        "-?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "KD +?",
+        "+?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "+?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "T",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "T",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "LH",
+        "KD +?",
+        "+?"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "LH",
+        "KD +?",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "LH",
+        "KD +?",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "4000",
+        "LH",
+        "HKD +?",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "-",
+        "-",
+        "-",
+        "-",
+        "4500",
+        "LH",
+        "HKD +?",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "(total)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "(total)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Startup",
+        "Active",
+        "Recovery",
+        "Cancel",
+        "Damage",
+        "Guard",
+        "On Hit",
+        "On Block"
+      ],
+      [
+        "(total)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Street Fighter 6 (SF6)"
+      ],
+      [
+        "General"
+      ],
+      [
+        "FAQ •\n\nControls •\n\nHUD •\n\nGlossary •\n\nMovement •\n\nOffense •\n\nDefense •\n\nGauges •\n\nGame Data •\n\nPatch Notes •\n\nLinks"
+      ],
+      [
+        "Characters"
+      ],
+      [
+        "A.K.I.\n\nAkuma\n\nAlex\n\nBlanka\n\nC. Viper\n\nCammy\n\nChun-Li\n\nDee Jay\n\nDhalsim\n\nEd\n\nE. Honda\n\nElena\n\nGuile\n\nIngrid\n\nJamie\n\nJP\n\nJuri\n\nKen\n\nKimberly\n\nLily\n\nLuke\n\nM. Bison\n\nMai\n\nManon\n\nMarisa\n\nRashid\n\nRyu\n\nSagat\n\nTerry\n\nYasmine\n\nZangief"
+      ],
+      [
+        "Data"
+      ],
+      [
+        "A.K.I. •\n\nAkuma •\n\nAlex •\n\nBlanka •\n\nC. Viper •\n\nCammy •\n\nChun-Li •\n\nDee Jay •\n\nDhalsim •\n\nEd •\n\nE. Honda •\n\nElena •\n\nGuile •\n\nIngrid •\n\nJamie •\n\nJP •\n\nJuri •\n\nKen •\n\nKimberly •\n\nLily •\n\nLuke •\n\nM. Bison •\n\nMai •\n\nManon •\n\nMarisa •\n\nRashid •\n\nRyu •\n\nSagat •\n\nTerry •\n\nYasmine •\n\nZangief"
+      ]
+    ]
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/d/d4/Icon_training.png/48px-Icon_training.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/f/f5/SF6_Arjun_Portrait.png/271px-SF6_Arjun_Portrait.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9c/SF6_Classic.png/24px-SF6_Classic.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2e/SF6_Modern.png/24px-SF6_Modern.png"
+    },
+    {
+      "alt": "A.K.I.",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/bf/SF6_A.K.I._Icon.png/64px-SF6_A.K.I._Icon.png"
+    },
+    {
+      "alt": "Akuma",
+      "url": "https://wiki.supercombo.gg/images/thumb/0/07/SF6_Akuma_Icon.png/64px-SF6_Akuma_Icon.png"
+    },
+    {
+      "alt": "Alex",
+      "url": "https://wiki.supercombo.gg/images/thumb/5/58/SF6_Alex_Icon.png/64px-SF6_Alex_Icon.png"
+    },
+    {
+      "alt": "Blanka",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9a/SF6_Blanka_Icon.png/64px-SF6_Blanka_Icon.png"
+    },
+    {
+      "alt": "C. Viper",
+      "url": "https://wiki.supercombo.gg/images/thumb/1/15/SF6_Cviper_Icon.png/64px-SF6_Cviper_Icon.png"
+    },
+    {
+      "alt": "Cammy",
+      "url": "https://wiki.supercombo.gg/images/thumb/6/61/SF6_Cammy_Icon.png/64px-SF6_Cammy_Icon.png"
+    },
+    {
+      "alt": "Chun-Li",
+      "url": "https://wiki.supercombo.gg/images/thumb/1/1c/SF6_Chun-Li_Icon.png/64px-SF6_Chun-Li_Icon.png"
+    },
+    {
+      "alt": "Dee Jay",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4d/SF6_DeeJay_Icon.png/64px-SF6_DeeJay_Icon.png"
+    },
+    {
+      "alt": "Dhalsim",
+      "url": "https://wiki.supercombo.gg/images/thumb/a/a8/SF6_Dhalsim_Icon.png/64px-SF6_Dhalsim_Icon.png"
+    },
+    {
+      "alt": "Ed",
+      "url": "https://wiki.supercombo.gg/images/thumb/d/d7/SF6_Ed_Icon.png/64px-SF6_Ed_Icon.png"
+    },
+    {
+      "alt": "E. Honda",
+      "url": "https://wiki.supercombo.gg/images/thumb/6/69/SF6_Ehonda_Icon.png/64px-SF6_Ehonda_Icon.png"
+    },
+    {
+      "alt": "Elena",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4f/SF6_Elena_Icon.png/64px-SF6_Elena_Icon.png"
+    },
+    {
+      "alt": "Guile",
+      "url": "https://wiki.supercombo.gg/images/thumb/e/ea/SF6_Guile_Icon.png/64px-SF6_Guile_Icon.png"
+    },
+    {
+      "alt": "Ingrid",
+      "url": "https://wiki.supercombo.gg/images/thumb/d/d7/SF6_Ingrid_Icon.png/64px-SF6_Ingrid_Icon.png"
+    },
+    {
+      "alt": "Jamie",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/29/SF6_Jamie_Icon.png/64px-SF6_Jamie_Icon.png"
+    },
+    {
+      "alt": "JP",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4e/SF6_JP_Icon.png/64px-SF6_JP_Icon.png"
+    },
+    {
+      "alt": "Juri",
+      "url": "https://wiki.supercombo.gg/images/thumb/7/72/SF6_Juri_Icon.png/64px-SF6_Juri_Icon.png"
+    },
+    {
+      "alt": "Ken",
+      "url": "https://wiki.supercombo.gg/images/thumb/5/53/SF6_Ken_Icon.png/64px-SF6_Ken_Icon.png"
+    },
+    {
+      "alt": "Kimberly",
+      "url": "https://wiki.supercombo.gg/images/thumb/8/8f/SF6_Kimberly_Icon.png/64px-SF6_Kimberly_Icon.png"
+    },
+    {
+      "alt": "Lily",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2b/SF6_Lily_Icon.png/64px-SF6_Lily_Icon.png"
+    },
+    {
+      "alt": "Luke",
+      "url": "https://wiki.supercombo.gg/images/thumb/8/8c/SF6_Luke_Icon.png/64px-SF6_Luke_Icon.png"
+    },
+    {
+      "alt": "M. Bison",
+      "url": "https://wiki.supercombo.gg/images/thumb/3/3c/SF6_Mbison_Icon.png/64px-SF6_Mbison_Icon.png"
+    },
+    {
+      "alt": "Mai",
+      "url": "https://wiki.supercombo.gg/images/thumb/e/ee/SF6_Mai_Icon.png/64px-SF6_Mai_Icon.png"
+    },
+    {
+      "alt": "Manon",
+      "url": "https://wiki.supercombo.gg/images/thumb/c/ca/SF6_Manon_Icon.png/64px-SF6_Manon_Icon.png"
+    },
+    {
+      "alt": "Marisa",
+      "url": "https://wiki.supercombo.gg/images/thumb/5/54/SF6_Marisa_Icon.png/64px-SF6_Marisa_Icon.png"
+    },
+    {
+      "alt": "Rashid",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/49/SF6_Rashid_Icon.png/64px-SF6_Rashid_Icon.png"
+    },
+    {
+      "alt": "Ryu",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/be/SF6_Ryu_Icon.png/64px-SF6_Ryu_Icon.png"
+    },
+    {
+      "alt": "Sagat",
+      "url": "https://wiki.supercombo.gg/images/thumb/1/10/SF6_Sagat_Icon.png/64px-SF6_Sagat_Icon.png"
+    },
+    {
+      "alt": "Terry",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/b4/SF6_Terry_Icon.png/64px-SF6_Terry_Icon.png"
+    },
+    {
+      "alt": "Yasmine",
+      "url": "https://wiki.supercombo.gg/images/thumb/7/7c/SF6_Yasmine_Icon.png/64px-SF6_Yasmine_Icon.png"
+    },
+    {
+      "alt": "Zangief",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4b/SF6_Zangief_Icon.png/64px-SF6_Zangief_Icon.png"
+    }
+  ],
+  "links": [],
+  "notice": "Imported reference data. Verify accuracy and source permissions before redistribution. Images are URLs, not copied image files."
+}

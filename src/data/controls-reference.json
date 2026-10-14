@@ -1,0 +1,52 @@
+[
+  {
+    "category": "Buttons and notation",
+    "notation": "P / K",
+    "explanation": "P means punch and K means kick. LP, MP, HP and LK, MK, HK represent light, medium and heavy strengths."
+  },
+  {
+    "category": "Directional notation",
+    "notation": "236P",
+    "explanation": "Number-pad directions assume the character faces right: 2 = down, 3 = down-forward, 6 = forward. 236P is quarter-circle forward plus punch."
+  },
+  {
+    "category": "Directional notation",
+    "notation": "623P",
+    "explanation": "6 = forward, 2 = down, 3 = down-forward. 623P is commonly called a dragon-punch motion."
+  },
+  {
+    "category": "Directional notation",
+    "notation": "214K",
+    "explanation": "2 = down, 1 = down-back, 4 = back. 214K means quarter-circle back plus kick."
+  },
+  {
+    "category": "Directional notation",
+    "notation": "[4]6P",
+    "explanation": "Hold back (4) for a charge, then press forward (6) and punch. Exact charge duration depends on the move."
+  },
+  {
+    "category": "Core mechanics",
+    "notation": "Drive Impact",
+    "explanation": "A powerful armored attack activated with Heavy Punch + Heavy Kick in Classic controls. It consumes Drive Gauge."
+  },
+  {
+    "category": "Core mechanics",
+    "notation": "Drive Parry",
+    "explanation": "Hold Medium Punch + Medium Kick in Classic controls to enter a defensive parry state, consuming Drive Gauge."
+  },
+  {
+    "category": "Core mechanics",
+    "notation": "Drive Rush",
+    "explanation": "A fast advancing action using Drive Gauge. It can be performed from a parry or by canceling eligible attacks."
+  },
+  {
+    "category": "Core mechanics",
+    "notation": "Overdrive special",
+    "explanation": "Press two punches or two kicks for an eligible special move to use its Overdrive version, consuming Drive Gauge."
+  },
+  {
+    "category": "Control schemes",
+    "notation": "Classic / Modern / Dynamic",
+    "explanation": "Classic uses six attack buttons and traditional inputs; Modern uses simplified special-move inputs; Dynamic is designed for casual offline play."
+  }
+]

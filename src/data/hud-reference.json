@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Battle HUD Overview",
+    "image": "/assets/hud/SF6_Battle_HUD.jpg",
+    "description": "The match display shows each player\u2019s health, Drive Gauge, Super Art gauge, timer and round indicators. Use the diagram to identify the main interface areas."
+  },
+  {
+    "title": "Health Bars & SA3 Scaling",
+    "image": "/assets/hud/1200px-SF6_Health_Bars_SA3_Scaling.png",
+    "description": "Health bars show remaining vitality. This diagram illustrates health-bar presentation and Super Art Level 3 / Critical Art-related scaling; exact values depend on game rules and circumstances."
+  },
+  {
+    "title": "Combo Counter",
+    "image": "/assets/hud/299px-SF6_icon_combocount.png",
+    "description": "Indicates consecutive hits in a combo."
+  },
+  {
+    "title": "Armor Break",
+    "image": "/assets/hud/SF6_icon_armorbreak.png",
+    "description": "Indicates an attack or interaction that breaks armor."
+  },
+  {
+    "title": "Counter Hit",
+    "image": "/assets/hud/SF6_icon_counterhit.png",
+    "description": "Appears when an attack connects while the opponent is attempting an action."
+  },
+  {
+    "title": "Cross-Up",
+    "image": "/assets/hud/SF6_icon_crossup.png",
+    "description": "Indicates a hit that crosses the opponent\u2019s guard direction."
+  },
+  {
+    "title": "Crush",
+    "image": "/assets/hud/SF6_icon_crush.png",
+    "description": "Indicates a crush-related hit interaction."
+  },
+  {
+    "title": "Forced Knockdown",
+    "image": "/assets/hud/SF6_icon_forcedknockdown.png",
+    "description": "Indicates a forced knockdown situation."
+  },
+  {
+    "title": "Hard Knockdown",
+    "image": "/assets/hud/SF6_icon_hkd.png",
+    "description": "Indicates a hard knockdown situation, which changes the defender\u2019s recovery options."
+  },
+  {
+    "title": "Lock",
+    "image": "/assets/hud/SF6_icon_lock.png",
+    "description": "Indicates a lock-related combat state or effect."
+  },
+  {
+    "title": "Punish Counter",
+    "image": "/assets/hud/SF6_icon_punishcounter.png",
+    "description": "Indicates a hit on an opponent during the recovery of a move, with additional punish-counter effects."
+  },
+  {
+    "title": "Reversal",
+    "image": "/assets/hud/SF6_icon_reversal.png",
+    "description": "Indicates an action performed at the earliest available opportunity after a recovery or wake-up window."
+  },
+  {
+    "title": "Stun",
+    "image": "/assets/hud/SF6_icon_stun.png",
+    "description": "Indicates the opponent has entered a stunned state."
+  },
+  {
+    "title": "Throw Escape",
+    "image": "/assets/hud/SF6_icon_throwescape.png",
+    "description": "Indicates a successful throw break."
+  }
+]

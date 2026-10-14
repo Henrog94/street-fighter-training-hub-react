@@ -1,0 +1,187 @@
+[
+  {
+    "category": "Notation",
+    "term": "LP",
+    "definition": "Light Punch"
+  },
+  {
+    "category": "Notation",
+    "term": "MP",
+    "definition": "Medium Punch"
+  },
+  {
+    "category": "Notation",
+    "term": "HP",
+    "definition": "Heavy Punch"
+  },
+  {
+    "category": "Notation",
+    "term": "LK",
+    "definition": "Light Kick"
+  },
+  {
+    "category": "Notation",
+    "term": "MK",
+    "definition": "Medium Kick"
+  },
+  {
+    "category": "Notation",
+    "term": "HK",
+    "definition": "Heavy Kick"
+  },
+  {
+    "category": "Notation",
+    "term": "5",
+    "definition": "Neutral direction; no directional input"
+  },
+  {
+    "category": "Notation",
+    "term": "2",
+    "definition": "Down direction"
+  },
+  {
+    "category": "Notation",
+    "term": "6",
+    "definition": "Forward direction relative to your character"
+  },
+  {
+    "category": "Notation",
+    "term": "4",
+    "definition": "Back direction relative to your character"
+  },
+  {
+    "category": "Notation",
+    "term": "236",
+    "definition": "Quarter-circle forward motion",
+    "image": "/assets/notation/236.png"
+  },
+  {
+    "category": "Notation",
+    "term": "214",
+    "definition": "Quarter-circle backward motion",
+    "image": "/assets/notation/214.png"
+  },
+  {
+    "category": "Notation",
+    "term": "623",
+    "definition": "Dragon-punch motion (forward, down, down-forward)",
+    "image": "/assets/notation/623.png"
+  },
+  {
+    "category": "Notation",
+    "term": "421",
+    "definition": "Back → down → down-back directional sequence. Read the numbers in order as directions relative to your character.",
+    "image": "/assets/notation/421.png"
+  },
+  {
+    "category": "Notation",
+    "term": "360",
+    "definition": "Full-circle directional motion. Often used for command grabs; follow your character’s specific move requirements.",
+    "image": "/assets/notation/360.png"
+  },
+  {
+    "category": "Notation",
+    "term": "j.",
+    "definition": "An action performed while airborne"
+  },
+  {
+    "category": "Notation",
+    "term": "xx",
+    "definition": "Cancel one move into another"
+  },
+  {
+    "category": "Notation",
+    "term": "~",
+    "definition": "Quickly follow one input with another"
+  },
+  {
+    "category": "Mechanics",
+    "term": "Drive Impact",
+    "definition": "Armored Drive attack performed with HP + HK in Classic controls"
+  },
+  {
+    "category": "Mechanics",
+    "term": "Drive Parry",
+    "definition": "Defensive Drive mechanic performed with MP + MK in Classic controls"
+  },
+  {
+    "category": "Mechanics",
+    "term": "Drive Rush",
+    "definition": "Forward-moving Drive mechanic initiated from parry or certain cancels"
+  },
+  {
+    "category": "Mechanics",
+    "term": "Burnout",
+    "definition": "State after the Drive Gauge is depleted"
+  },
+  {
+    "category": "Combat",
+    "term": "Anti-air",
+    "definition": "An attack used to stop an airborne opponent"
+  },
+  {
+    "category": "Combat",
+    "term": "Poke",
+    "definition": "An attack used to control space or test an opponent’s range"
+  },
+  {
+    "category": "Combat",
+    "term": "Whiff punish",
+    "definition": "Hitting an opponent during the recovery of a missed attack"
+  },
+  {
+    "category": "Combat",
+    "term": "Meaty",
+    "definition": "An attack timed to hit an opponent as they get up"
+  },
+  {
+    "category": "Combat",
+    "term": "Frame trap",
+    "definition": "A pressure sequence with a gap that can catch attempted attacks"
+  },
+  {
+    "category": "Combat",
+    "term": "Hit confirm",
+    "definition": "Recognizing that an attack connected before committing to a follow-up"
+  },
+  {
+    "category": "Combat",
+    "term": "Blockstring",
+    "definition": "A sequence of attacks used to apply pressure while the opponent blocks"
+  },
+  {
+    "category": "Combat",
+    "term": "Oki",
+    "definition": "Offense applied when an opponent is getting up"
+  },
+  {
+    "category": "Frame Data",
+    "term": "Startup",
+    "definition": "Frames before an attack becomes active"
+  },
+  {
+    "category": "Frame Data",
+    "term": "Active",
+    "definition": "Frames during which an attack can connect"
+  },
+  {
+    "category": "Frame Data",
+    "term": "Recovery",
+    "definition": "Frames after the active period before control returns"
+  },
+  {
+    "category": "Frame Data",
+    "term": "On block",
+    "definition": "Frame advantage or disadvantage when an attack is blocked"
+  },
+  {
+    "category": "Frame Data",
+    "term": "Plus frames",
+    "definition": "Frame advantage that allows the attacker to act sooner"
+  },
+  {
+    "category": "Frame Data",
+    "term": "Punishable",
+    "definition": "A move whose recovery or disadvantage allows a guaranteed response in range"
+  }
+]

@@ -1,0 +1,296 @@
+{
+  "source": "https://wiki.supercombo.gg/w/Street_Fighter_6/HUD",
+  "fetchedAt": "2026-10-12T16:00:52.562Z",
+  "method": "MediaWiki API",
+  "title": "Street Fighter 6/HUD",
+  "headings": [
+    {
+      "level": 2,
+      "title": "Battle HUD"
+    },
+    {
+      "level": 2,
+      "title": "HUD Icons"
+    },
+    {
+      "level": 2,
+      "title": "Health Bar Reference"
+    },
+    {
+      "level": 2,
+      "title": "SF6 Navigation"
+    }
+  ],
+  "text": "Contents\n\n1 Battle HUD\n\n2 HUD Icons\n\n3 Health Bar Reference\n\n4 SF6 Navigation\n\nBattle HUD\n\nedit\n\n1. Vitality Gauge: Indicates the health remaining for each character.\n\n2. Drive Gauge: Drive gives you the ability to perform various actions in SF6. When this gauge is empty, it turns gray and begins slowly replenishing. The fighter will enter Burnout and will not be able to use Drive-related techniques until the gauge is fully replenished.\n\n3. Timer: Indicates the time remaining in the round.\n\n4. Round Count: Indicates the current round count. The type of icon indicates how the round was won.\n\n5. Attribute Icon: Some characters have unique icons that indicate some property. Examples include Kimberly's Spray Can stock, Ryu's Denjin charge, and Juri's Fuha stock.\n\n6. Character Icon: Indicates the character and control type (Classic/Modern/Dynamic) being used.\n\n7. Super Art Gauge: Spend this gauge to perform a devastating Super Art. Every attack that lands will fill up the Super Art gauge, and you can fill it up to 3 stocks. Super Art gauge also carries over between rounds.\n\nHUD Icons\n\nedit\n\nOther HUD Icons (Player 1 / Player 2)\n\nCombo Counter\n\nThe number indicates the number of hits in the current combo. Useful for determining whether or not a sequence of attacks is a true combo.\n\nCounter-hit\n\nAppears when interrupting the startup or active frames of an opponent's attack. If two attacks trade with each other, both players get a Counter-hit.\n\nPunish Counter\n\nAppears when punishing the recovery frame's of an opponent's attack.\n\nForced Knockdown\n\nAppears when hitting an opponent out of an airborne move (except normal jump). The opponent is put into an automatic knockdown state even when an air reset would normally occur.\n\nCross-up\n\nAppears when an attack crosses over the opponent, forcing them to block in the opposite direction that they were facing.\n\nHard Knockdown\n\nAppears after a knockdown, such as a 2HK or Punish Counter Throw, that prevents the opponent from Back Rising. Often abbreviated as HKD.\n\nReversal\n\nAppears when a Special or Super move is input at the earliest possible timing after hitstun, blockstun, knockdown, or air reset.\n\nThrow Escape\n\nAppears when successfully defending against a Throw. Also known as a \"Throw Tech\".\n\nStun/Dizzy\n\nAppears when Drive Impact connects on a cornered opponent during Burnout state, allowing for a free combo followup.\n\nArmor Break\n\nAppears after breaking the opponent's armor, such as connecting Drive Reversal or 3 chained light normals vs. Drive Impact .\n\nCrush\n\nAppears when Drive Impact is blocked near the corner for a Wall Splat.\n\nLock\n\nAppears when Drive Impact connects against the opponent in a true blockstring. Cornered opponents will bounce off as though blocking a midscreen Drive Impact (no Wall Splat).\n\nHealth Bar Reference\n\nedit\n\nHealth Bar References to calculate SA3/CA Damage at Minimum Scaling Note: image scale applies to opponents with the standard 10,000 HP. At minimum scaling, Akuma's Raging Demon deals ~24%; depending on Medal count, Manon's SA3 deals 20~23% and CA deals 23~26%\n\nSF6 Navigation\n\nStreet Fighter 6 (SF6)\n\nGeneral\n\nFAQ •\n\nControls •\n\nHUD •\n\nGlossary •\n\nMovement •\n\nOffense •\n\nDefense •\n\nGauges •\n\nGame Data •\n\nPatch Notes •\n\nLinks\n\nCharacters\n\nA.K.I.\n\nAkuma\n\nAlex\n\nBlanka\n\nC. Viper\n\nCammy\n\nChun-Li\n\nDee Jay\n\nDhalsim\n\nEd\n\nE. Honda\n\nElena\n\nGuile\n\nIngrid\n\nJamie\n\nJP\n\nJuri\n\nKen\n\nKimberly\n\nLily\n\nLuke\n\nM. Bison\n\nMai\n\nManon\n\nMarisa\n\nRashid\n\nRyu\n\nSagat\n\nTerry\n\nYasmine\n\nZangief\n\nData\n\nA.K.I. •\n\nAkuma •\n\nAlex •\n\nBlanka •\n\nC. Viper •\n\nCammy •\n\nChun-Li •\n\nDee Jay •\n\nDhalsim •\n\nEd •\n\nE. Honda •\n\nElena •\n\nGuile •\n\nIngrid •\n\nJamie •\n\nJP •\n\nJuri •\n\nKen •\n\nKimberly •\n\nLily •\n\nLuke •\n\nM. Bison •\n\nMai •\n\nManon •\n\nMarisa •\n\nRashid •\n\nRyu •\n\nSagat •\n\nTerry •\n\nYasmine •\n\nZangief",
+  "tables": [
+    [
+      [
+        "Combo Counter",
+        "",
+        "The number indicates the number of hits in the current combo. Useful for determining whether or not a sequence of attacks is a true combo."
+      ],
+      [
+        "Counter-hit",
+        "",
+        "Appears when interrupting the startup or active frames of an opponent's attack. If two attacks trade with each other, both players get a Counter-hit."
+      ],
+      [
+        "Punish Counter",
+        "",
+        "Appears when punishing the recovery frame's of an opponent's attack."
+      ],
+      [
+        "Forced Knockdown",
+        "",
+        "Appears when hitting an opponent out of an airborne move (except normal jump). The opponent is put into an automatic knockdown state even when an air reset would normally occur."
+      ],
+      [
+        "Cross-up",
+        "",
+        "Appears when an attack crosses over the opponent, forcing them to block in the opposite direction that they were facing."
+      ],
+      [
+        "Hard Knockdown",
+        "",
+        "Appears after a knockdown, such as a 2HK or Punish Counter Throw, that prevents the opponent from Back Rising. Often abbreviated as HKD."
+      ],
+      [
+        "Reversal",
+        "",
+        "Appears when a Special or Super move is input at the earliest possible timing after hitstun, blockstun, knockdown, or air reset."
+      ],
+      [
+        "Throw Escape",
+        "",
+        "Appears when successfully defending against a Throw. Also known as a \"Throw Tech\"."
+      ],
+      [
+        "Stun/Dizzy",
+        "",
+        "Appears when Drive Impact connects on a cornered opponent during Burnout state, allowing for a free combo followup."
+      ],
+      [
+        "Armor Break",
+        "",
+        "Appears after breaking the opponent's armor, such as connecting Drive Reversal or 3 chained light normals vs. Drive Impact ."
+      ],
+      [
+        "Crush",
+        "",
+        "Appears when Drive Impact is blocked near the corner for a Wall Splat."
+      ],
+      [
+        "Lock",
+        "",
+        "Appears when Drive Impact connects against the opponent in a true blockstring. Cornered opponents will bounce off as though blocking a midscreen Drive Impact (no Wall Splat)."
+      ]
+    ],
+    [
+      [
+        "Street Fighter 6 (SF6)"
+      ],
+      [
+        "General"
+      ],
+      [
+        "FAQ •\n\nControls •\n\nHUD •\n\nGlossary •\n\nMovement •\n\nOffense •\n\nDefense •\n\nGauges •\n\nGame Data •\n\nPatch Notes •\n\nLinks"
+      ],
+      [
+        "Characters"
+      ],
+      [
+        "A.K.I.\n\nAkuma\n\nAlex\n\nBlanka\n\nC. Viper\n\nCammy\n\nChun-Li\n\nDee Jay\n\nDhalsim\n\nEd\n\nE. Honda\n\nElena\n\nGuile\n\nIngrid\n\nJamie\n\nJP\n\nJuri\n\nKen\n\nKimberly\n\nLily\n\nLuke\n\nM. Bison\n\nMai\n\nManon\n\nMarisa\n\nRashid\n\nRyu\n\nSagat\n\nTerry\n\nYasmine\n\nZangief"
+      ],
+      [
+        "Data"
+      ],
+      [
+        "A.K.I. •\n\nAkuma •\n\nAlex •\n\nBlanka •\n\nC. Viper •\n\nCammy •\n\nChun-Li •\n\nDee Jay •\n\nDhalsim •\n\nEd •\n\nE. Honda •\n\nElena •\n\nGuile •\n\nIngrid •\n\nJamie •\n\nJP •\n\nJuri •\n\nKen •\n\nKimberly •\n\nLily •\n\nLuke •\n\nM. Bison •\n\nMai •\n\nManon •\n\nMarisa •\n\nRashid •\n\nRyu •\n\nSagat •\n\nTerry •\n\nYasmine •\n\nZangief"
+      ]
+    ]
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/9/9d/SF6_Battle_HUD.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/5/5f/SF6_icon_combocount.png/200px-SF6_icon_combocount.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/be/SF6_icon_counterhit.png/289px-SF6_icon_counterhit.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9d/SF6_icon_punishcounter.png/264px-SF6_icon_punishcounter.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/e/e5/SF6_icon_forcedknockdown.png/342px-SF6_icon_forcedknockdown.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/b6/SF6_icon_crossup.png/578px-SF6_icon_crossup.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/c/c1/SF6_icon_hkd.png/578px-SF6_icon_hkd.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/c/cd/SF6_icon_reversal.png/578px-SF6_icon_reversal.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/6/6a/SF6_icon_throwescape.png/578px-SF6_icon_throwescape.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/0/08/SF6_icon_stun.png/578px-SF6_icon_stun.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/7/78/SF6_icon_armorbreak.png/578px-SF6_icon_armorbreak.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/d/d1/SF6_icon_crush.png/578px-SF6_icon_crush.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/thumb/7/72/SF6_icon_lock.png/578px-SF6_icon_lock.png"
+    },
+    {
+      "alt": "",
+      "url": "https://wiki.supercombo.gg/images/c/c7/SF6_Health_Bars_SA3_Scaling.png"
+    },
+    {
+      "alt": "A.K.I.",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/bf/SF6_A.K.I._Icon.png/64px-SF6_A.K.I._Icon.png"
+    },
+    {
+      "alt": "Akuma",
+      "url": "https://wiki.supercombo.gg/images/thumb/0/07/SF6_Akuma_Icon.png/64px-SF6_Akuma_Icon.png"
+    },
+    {
+      "alt": "Alex",
+      "url": "https://wiki.supercombo.gg/images/thumb/5/58/SF6_Alex_Icon.png/64px-SF6_Alex_Icon.png"
+    },
+    {
+      "alt": "Blanka",
+      "url": "https://wiki.supercombo.gg/images/thumb/9/9a/SF6_Blanka_Icon.png/64px-SF6_Blanka_Icon.png"
+    },
+    {
+      "alt": "C. Viper",
+      "url": "https://wiki.supercombo.gg/images/thumb/1/15/SF6_Cviper_Icon.png/64px-SF6_Cviper_Icon.png"
+    },
+    {
+      "alt": "Cammy",
+      "url": "https://wiki.supercombo.gg/images/thumb/6/61/SF6_Cammy_Icon.png/64px-SF6_Cammy_Icon.png"
+    },
+    {
+      "alt": "Chun-Li",
+      "url": "https://wiki.supercombo.gg/images/thumb/1/1c/SF6_Chun-Li_Icon.png/64px-SF6_Chun-Li_Icon.png"
+    },
+    {
+      "alt": "Dee Jay",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4d/SF6_DeeJay_Icon.png/64px-SF6_DeeJay_Icon.png"
+    },
+    {
+      "alt": "Dhalsim",
+      "url": "https://wiki.supercombo.gg/images/thumb/a/a8/SF6_Dhalsim_Icon.png/64px-SF6_Dhalsim_Icon.png"
+    },
+    {
+      "alt": "Ed",
+      "url": "https://wiki.supercombo.gg/images/thumb/d/d7/SF6_Ed_Icon.png/64px-SF6_Ed_Icon.png"
+    },
+    {
+      "alt": "E. Honda",
+      "url": "https://wiki.supercombo.gg/images/thumb/6/69/SF6_Ehonda_Icon.png/64px-SF6_Ehonda_Icon.png"
+    },
+    {
+      "alt": "Elena",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4f/SF6_Elena_Icon.png/64px-SF6_Elena_Icon.png"
+    },
+    {
+      "alt": "Guile",
+      "url": "https://wiki.supercombo.gg/images/thumb/e/ea/SF6_Guile_Icon.png/64px-SF6_Guile_Icon.png"
+    },
+    {
+      "alt": "Ingrid",
+      "url": "https://wiki.supercombo.gg/images/thumb/d/d7/SF6_Ingrid_Icon.png/64px-SF6_Ingrid_Icon.png"
+    },
+    {
+      "alt": "Jamie",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/29/SF6_Jamie_Icon.png/64px-SF6_Jamie_Icon.png"
+    },
+    {
+      "alt": "JP",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4e/SF6_JP_Icon.png/64px-SF6_JP_Icon.png"
+    },
+    {
+      "alt": "Juri",
+      "url": "https://wiki.supercombo.gg/images/thumb/7/72/SF6_Juri_Icon.png/64px-SF6_Juri_Icon.png"
+    },
+    {
+      "alt": "Ken",
+      "url": "https://wiki.supercombo.gg/images/thumb/5/53/SF6_Ken_Icon.png/64px-SF6_Ken_Icon.png"
+    },
+    {
+      "alt": "Kimberly",
+      "url": "https://wiki.supercombo.gg/images/thumb/8/8f/SF6_Kimberly_Icon.png/64px-SF6_Kimberly_Icon.png"
+    },
+    {
+      "alt": "Lily",
+      "url": "https://wiki.supercombo.gg/images/thumb/2/2b/SF6_Lily_Icon.png/64px-SF6_Lily_Icon.png"
+    },
+    {
+      "alt": "Luke",
+      "url": "https://wiki.supercombo.gg/images/thumb/8/8c/SF6_Luke_Icon.png/64px-SF6_Luke_Icon.png"
+    },
+    {
+      "alt": "M. Bison",
+      "url": "https://wiki.supercombo.gg/images/thumb/3/3c/SF6_Mbison_Icon.png/64px-SF6_Mbison_Icon.png"
+    },
+    {
+      "alt": "Mai",
+      "url": "https://wiki.supercombo.gg/images/thumb/e/ee/SF6_Mai_Icon.png/64px-SF6_Mai_Icon.png"
+    },
+    {
+      "alt": "Manon",
+      "url": "https://wiki.supercombo.gg/images/thumb/c/ca/SF6_Manon_Icon.png/64px-SF6_Manon_Icon.png"
+    },
+    {
+      "alt": "Marisa",
+      "url": "https://wiki.supercombo.gg/images/thumb/5/54/SF6_Marisa_Icon.png/64px-SF6_Marisa_Icon.png"
+    },
+    {
+      "alt": "Rashid",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/49/SF6_Rashid_Icon.png/64px-SF6_Rashid_Icon.png"
+    },
+    {
+      "alt": "Ryu",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/be/SF6_Ryu_Icon.png/64px-SF6_Ryu_Icon.png"
+    },
+    {
+      "alt": "Sagat",
+      "url": "https://wiki.supercombo.gg/images/thumb/1/10/SF6_Sagat_Icon.png/64px-SF6_Sagat_Icon.png"
+    },
+    {
+      "alt": "Terry",
+      "url": "https://wiki.supercombo.gg/images/thumb/b/b4/SF6_Terry_Icon.png/64px-SF6_Terry_Icon.png"
+    },
+    {
+      "alt": "Yasmine",
+      "url": "https://wiki.supercombo.gg/images/thumb/7/7c/SF6_Yasmine_Icon.png/64px-SF6_Yasmine_Icon.png"
+    },
+    {
+      "alt": "Zangief",
+      "url": "https://wiki.supercombo.gg/images/thumb/4/4b/SF6_Zangief_Icon.png/64px-SF6_Zangief_Icon.png"
+    }
+  ],
+  "links": [],
+  "notice": "Imported reference data. Verify accuracy and source permissions before redistribution. Images are URLs, not copied image files."
+}

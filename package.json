@@ -1,0 +1,28 @@
+{
+  "name": "street-fighter-training-hub-react",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scrape": "node scripts/wiki-scraper.js",
+    "update:patches": "node scripts/update-patches.js",
+    "update:wiki-patches": "node scripts/update-wiki-patches.js",
+    "scrape:characters": "node scripts/scrape-characters.js",
+    "build:wiki": "node scripts/build-wiki-data.js",
+    "scrape:controls": "node scripts/wiki-scraper.js https://wiki.supercombo.gg/w/Street_Fighter_6/Controls --out public/data/wiki-controls.json",
+    "scrape:glossary": "node scripts/wiki-scraper.js https://wiki.supercombo.gg/w/Street_Fighter_6/Glossary --out public/data/wiki-glossary.json",
+    "scrape:hud": "node scripts/wiki-scraper.js https://wiki.supercombo.gg/w/Street_Fighter_6/HUD --out public/data/wiki-hud.json"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {}
+}

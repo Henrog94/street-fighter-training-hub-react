@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding Neutral",
+        "category": "Beginner",
+        "difficulty": "Beginner",
+        "description": "Learn how players control space, look for openings, and interact with their opponent before either player commits to an attack.",
+        "topics": [
+            "Spacing",
+            "Footsies",
+            "Whiff Punishing",
+            "Movement"
+        ]
+    },
+
+    {
+        "id": 2,
+        "title": "Blocking Basics",
+        "category": "Defense",
+        "difficulty": "Beginner",
+        "description": "Learn the fundamentals of blocking attacks and recognizing when to defend instead of attacking.",
+        "topics": [
+            "Standing Block",
+            "Crouching Block",
+            "High Attacks",
+            "Low Attacks"
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Anti-Air Fundamentals",
+        "category": "Defense",
+        "difficulty": "Beginner",
+        "description": "Learn how to recognize jumping attacks and respond with an anti-air attack.",
+        "topics": [
+            "Jump-ins",
+            "Anti-Air Attacks",
+            "Reaction Time",
+            "Spacing"
+        ]
+    },
+
+    {
+        "id": 4,
+        "title": "Understanding Frame Data",
+        "category": "Frame Data",
+        "difficulty": "Intermediate",
+        "description": "Learn what startup, active, recovery, hit advantage, and block advantage mean.",
+        "topics": [
+            "Startup",
+            "Active Frames",
+            "Recovery",
+            "Frame Advantage"
+        ]
+    },
+
+    {
+        "id": 5,
+        "title": "Pressure and Offense",
+        "category": "Offense",
+        "difficulty": "Intermediate",
+        "description": "Learn how players maintain offensive pressure after successfully attacking their opponent.",
+        "topics": [
+            "Pressure",
+            "Plus Frames",
+            "Tick Throws",
+            "Frame Traps"
+        ]
+    },
+
+    {
+        "id": 6,
+        "title": "Hit Confirming",
+        "category": "Offense",
+        "difficulty": "Intermediate",
+        "description": "Learn how to recognize when an attack connects before committing to a larger combo or special move.",
+        "topics": [
+            "Confirming Hits",
+            "Combos",
+            "Counter Hits",
+            "Reaction"
+        ]
+    },
+
+    {
+        "id": 7,
+        "title": "Drive Impact",
+        "category": "Game Systems",
+        "difficulty": "Beginner",
+        "description": "Learn the basic purpose of Drive Impact and how players can use or respond to it.",
+        "topics": [
+            "Drive Gauge",
+            "Armor",
+            "Countering",
+            "Wall Splat"
+        ]
+    },
+
+    {
+        "id": 8,
+        "title": "Throw and Throw Tech",
+        "category": "Offense",
+        "difficulty": "Beginner",
+        "description": "Learn how throws work and how players can defend against them with throw techs.",
+        "topics": [
+            "Normal Throws",
+            "Throw Tech",
+            "Strike Throw",
+            "Timing"
+        ]
+    }
+]

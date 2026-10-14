@@ -1,0 +1,825 @@
+[
+  {
+    "id": 1,
+    "name": "Ryu",
+    "image": "assets/images/ryu.png.png",
+    "style": "Ansatsuken",
+    "difficulty": "Beginner",
+    "role": "Fundamentals",
+    "description": "A balanced fighter focused on fundamentals, neutral control, projectiles, and anti-air attacks.",
+    "strengths": [
+      "Neutral",
+      "Fireballs",
+      "Anti-airs"
+    ],
+    "weaknesses": [
+      "Limited mobility",
+      "Requires strong fundamentals"
+    ],
+    "specialMoves": [
+      "Hadoken",
+      "Shoryuken",
+      "Tatsumaki Senpu-Kyaku"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ryu",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ryu/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/b/be/SF6_Ryu_Icon.png/64px-SF6_Ryu_Icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Ken",
+    "style": "Ansatsuken",
+    "image": "assets/images/ken.png.png",
+    "difficulty": "Intermediate",
+    "role": "Rushdown",
+    "description": "An aggressive fighter who uses speed, pressure, and offensive momentum.",
+    "strengths": [
+      "Rushdown",
+      "Pressure",
+      "Corner offense"
+    ],
+    "weaknesses": [
+      "Risky offense",
+      "Requires good spacing"
+    ],
+    "specialMoves": [
+      "Hadoken",
+      "Shoryuken",
+      "Tatsumaki Senpu-Kyaku"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ken",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ken/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/5/53/SF6_Ken_Icon.png/64px-SF6_Ken_Icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Chun-Li",
+    "image": "assets/images/chun-li.png.png",
+    "style": "Kung Fu",
+    "difficulty": "Intermediate",
+    "role": "Neutral",
+    "description": "A mobile fighter who uses long-reaching attacks and powerful kicks.",
+    "strengths": [
+      "Mobility",
+      "Neutral",
+      "Long-range normals"
+    ],
+    "weaknesses": [
+      "Execution",
+      "Complex techniques"
+    ],
+    "specialMoves": [
+      "Kikoken",
+      "Spinning Bird Kick",
+      "Lightning Kicks"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Chun-Li",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Chun-Li/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/1/1c/SF6_Chun-Li_Icon.png/64px-SF6_Chun-Li_Icon.png"
+  },
+  {
+    "id": 4,
+    "name": "Guile",
+    "image": "assets/images/guile.png.png",
+    "style": "Military",
+    "difficulty": "Intermediate",
+    "role": "Zoning",
+    "description": "A defensive specialist who controls space with projectiles and strong anti-air attacks.",
+    "strengths": [
+      "Zoning",
+      "Defense",
+      "Space control"
+    ],
+    "weaknesses": [
+      "Close-range pressure",
+      "Charge management"
+    ],
+    "specialMoves": [
+      "Sonic Boom",
+      "Flash Kick"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Guile",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Guile/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/e/ea/SF6_Guile_Icon.png/64px-SF6_Guile_Icon.png"
+  },
+  {
+    "id": 5,
+    "name": "Zangief",
+    "image": "assets/images/zangief.png.png",
+    "style": "Wrestling",
+    "difficulty": "Advanced",
+    "role": "Grappler",
+    "description": "A powerful grappler specializing in command grabs and close-range damage.",
+    "strengths": [
+      "Command grabs",
+      "Damage",
+      "Close-range pressure"
+    ],
+    "weaknesses": [
+      "Mobility",
+      "Long-range zoning"
+    ],
+    "specialMoves": [
+      "Spinning Piledriver",
+      "Double Lariat"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Zangief",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Zangief/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/4/4b/SF6_Zangief_Icon.png/64px-SF6_Zangief_Icon.png"
+  },
+  {
+    "id": 6,
+    "name": "Juri",
+    "image": "assets/images/juri.png.png",
+    "style": "Taekwondo",
+    "difficulty": "Advanced",
+    "role": "Rushdown",
+    "description": "Juri is a highly mobile fighter who uses her Fuha system and unpredictable movement to pressure opponents and control the pace of a match.",
+    "strengths": [
+      "Strong pressure",
+      "Excellent mobility",
+      "Flexible Fuha stock system",
+      "Strong mix-up potential"
+    ],
+    "weaknesses": [
+      "Requires resource management",
+      "Can be difficult for beginners",
+      "Some attacks require careful spacing",
+      "Pressure can become predictable if overused"
+    ],
+    "specialMoves": [
+      "Fuhajin",
+      "Saihasho",
+      "Ankensatsu",
+      "Go Ohsatsu"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Juri",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Juri/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/7/72/SF6_Juri_Icon.png/64px-SF6_Juri_Icon.png"
+  },
+  {
+    "id": 7,
+    "name": "Luke",
+    "image": "assets/images/luke.png",
+    "style": "MMA",
+    "difficulty": "Beginner",
+    "role": "All-rounder",
+    "description": "Luke brings a all-rounder approach to Street Fighter 6, using mma techniques to control the match.",
+    "strengths": [
+      "All-rounder",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Sand Blast",
+      "Rising Uppercut"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Luke",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Luke/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/8/8c/SF6_Luke_Icon.png/64px-SF6_Luke_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 8,
+    "name": "Jamie",
+    "image": "assets/images/jamie.png",
+    "style": "Drunken Boxing",
+    "difficulty": "Intermediate",
+    "role": "Rushdown",
+    "description": "Jamie brings a rushdown approach to Street Fighter 6, using drunken boxing techniques to control the match.",
+    "strengths": [
+      "Rushdown",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "The Devil Inside",
+      "Freeflow Strikes"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Jamie",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Jamie/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/2/29/SF6_Jamie_Icon.png/64px-SF6_Jamie_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 9,
+    "name": "Kimberly",
+    "image": "assets/images/kimberly.png",
+    "style": "Bushinryu",
+    "difficulty": "Intermediate",
+    "role": "Rushdown",
+    "description": "Kimberly brings a rushdown approach to Street Fighter 6, using bushinryu techniques to control the match.",
+    "strengths": [
+      "Rushdown",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Sprint",
+      "Bushin Senpukyaku"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Kimberly",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Kimberly/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/8/8f/SF6_Kimberly_Icon.png/64px-SF6_Kimberly_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 10,
+    "name": "Blanka",
+    "image": "assets/images/blanka.png",
+    "style": "Wild Fighting",
+    "difficulty": "Intermediate",
+    "role": "Mix-up",
+    "description": "Blanka brings a mix-up approach to Street Fighter 6, using wild fighting techniques to control the match.",
+    "strengths": [
+      "Mix-up",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Electric Thunder",
+      "Rolling Attack"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Blanka",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Blanka/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/9/9a/SF6_Blanka_Icon.png/64px-SF6_Blanka_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 11,
+    "name": "Dhalsim",
+    "image": "assets/images/dhalsim.png",
+    "style": "Yoga",
+    "difficulty": "Advanced",
+    "role": "Zoning",
+    "description": "Dhalsim brings a zoning approach to Street Fighter 6, using yoga techniques to control the match.",
+    "strengths": [
+      "Zoning",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Yoga Fire",
+      "Yoga Teleport"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Dhalsim",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Dhalsim/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/a/a8/SF6_Dhalsim_Icon.png/64px-SF6_Dhalsim_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 12,
+    "name": "E. Honda",
+    "image": "assets/images/e-honda.png",
+    "style": "Sumo",
+    "difficulty": "Beginner",
+    "role": "Pressure",
+    "description": "E. Honda brings a pressure approach to Street Fighter 6, using sumo techniques to control the match.",
+    "strengths": [
+      "Pressure",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Hundred Hand Slap",
+      "Sumo Headbutt"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/E._Honda",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/E._Honda/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/6/69/SF6_Ehonda_Icon.png/64px-SF6_Ehonda_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 13,
+    "name": "Dee Jay",
+    "image": "assets/images/dee-jay.png",
+    "style": "Kickboxing",
+    "difficulty": "Intermediate",
+    "role": "Rushdown",
+    "description": "Dee Jay brings a rushdown approach to Street Fighter 6, using kickboxing techniques to control the match.",
+    "strengths": [
+      "Rushdown",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Air Slasher",
+      "Jackknife Maximum"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Dee_Jay",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Dee_Jay/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/4/4d/SF6_DeeJay_Icon.png/64px-SF6_DeeJay_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 14,
+    "name": "Manon",
+    "image": "assets/images/manon.png",
+    "style": "Judo and Ballet",
+    "difficulty": "Intermediate",
+    "role": "Grappler",
+    "description": "Manon brings a grappler approach to Street Fighter 6, using judo and ballet techniques to control the match.",
+    "strengths": [
+      "Grappler",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Man\u00e8ge Dor\u00e9",
+      "Rond-point"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Manon",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Manon/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/c/ca/SF6_Manon_Icon.png/64px-SF6_Manon_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 15,
+    "name": "Marisa",
+    "image": "assets/images/marisa.png",
+    "style": "Pankration",
+    "difficulty": "Beginner",
+    "role": "Power",
+    "description": "Marisa brings a power approach to Street Fighter 6, using pankration techniques to control the match.",
+    "strengths": [
+      "Power",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Gladius",
+      "Phalanx"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Marisa",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Marisa/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/5/54/SF6_Marisa_Icon.png/64px-SF6_Marisa_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 16,
+    "name": "JP",
+    "image": "assets/images/jp.png",
+    "style": "Bartitsu",
+    "difficulty": "Advanced",
+    "role": "Zoning",
+    "description": "JP brings a zoning approach to Street Fighter 6, using bartitsu techniques to control the match.",
+    "strengths": [
+      "Zoning",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Triglav",
+      "Torbalan"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/JP",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/JP/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/4/4e/SF6_JP_Icon.png/64px-SF6_JP_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 17,
+    "name": "Lily",
+    "image": "assets/images/lily.png",
+    "style": "Thunderfoot",
+    "difficulty": "Beginner",
+    "role": "Grappler",
+    "description": "Lily brings a grappler approach to Street Fighter 6, using thunderfoot techniques to control the match.",
+    "strengths": [
+      "Grappler",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Condor Spire",
+      "Tomahawk Buster"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Lily",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Lily/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/2/2b/SF6_Lily_Icon.png/64px-SF6_Lily_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 18,
+    "name": "Cammy",
+    "image": "assets/images/cammy.png",
+    "style": "Delta Red",
+    "difficulty": "Intermediate",
+    "role": "Rushdown",
+    "description": "Cammy brings a rushdown approach to Street Fighter 6, using delta red techniques to control the match.",
+    "strengths": [
+      "Rushdown",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Spiral Arrow",
+      "Cannon Spike"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Cammy",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Cammy/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/6/61/SF6_Cammy_Icon.png/64px-SF6_Cammy_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 19,
+    "name": "Rashid",
+    "image": "assets/images/rashid.png",
+    "style": "Parkour",
+    "difficulty": "Advanced",
+    "role": "Mobility",
+    "description": "Rashid brings a mobility approach to Street Fighter 6, using parkour techniques to control the match.",
+    "strengths": [
+      "Mobility",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Spinning Mixer",
+      "Eagle Spike"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Rashid",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Rashid/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/4/49/SF6_Rashid_Icon.png/64px-SF6_Rashid_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 20,
+    "name": "A.K.I.",
+    "image": "assets/images/a-k-i.png",
+    "style": "Poison Kung Fu",
+    "difficulty": "Advanced",
+    "role": "Setplay",
+    "description": "A.K.I. brings a setplay approach to Street Fighter 6, using poison kung fu techniques to control the match.",
+    "strengths": [
+      "Setplay",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Serpent Lash",
+      "Nightshade Pulse"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/A.K.I.",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/A.K.I./Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/b/bf/SF6_A.K.I._Icon.png/64px-SF6_A.K.I._Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 21,
+    "name": "Ed",
+    "image": "assets/images/ed.png",
+    "style": "Psycho Boxing",
+    "difficulty": "Intermediate",
+    "role": "Mid-range",
+    "description": "Ed brings a mid-range approach to Street Fighter 6, using psycho boxing techniques to control the match.",
+    "strengths": [
+      "Mid-range",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Psycho Flicker",
+      "Psycho Blitz"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ed",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ed/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/d/d7/SF6_Ed_Icon.png/64px-SF6_Ed_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 22,
+    "name": "Akuma",
+    "image": "assets/images/akuma.png",
+    "style": "Ansatsuken",
+    "difficulty": "Advanced",
+    "role": "Offense",
+    "description": "Akuma brings a offense approach to Street Fighter 6, using ansatsuken techniques to control the match.",
+    "strengths": [
+      "Offense",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Gohadoken",
+      "Goshoryuken"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Akuma",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Akuma/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/0/07/SF6_Akuma_Icon.png/64px-SF6_Akuma_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 23,
+    "name": "M. Bison",
+    "image": "assets/images/m-bison.png",
+    "style": "Psycho Power",
+    "difficulty": "Intermediate",
+    "role": "Pressure",
+    "description": "M. Bison brings a pressure approach to Street Fighter 6, using psycho power techniques to control the match.",
+    "strengths": [
+      "Pressure",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Psycho Crusher Attack",
+      "Double Knee Press"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/M.Bison",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/M.Bison/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/3/3c/SF6_Mbison_Icon.png/64px-SF6_Mbison_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 24,
+    "name": "Terry",
+    "image": "assets/images/terry.png",
+    "style": "Martial Arts",
+    "difficulty": "Intermediate",
+    "role": "All-rounder",
+    "description": "Terry brings a all-rounder approach to Street Fighter 6, using martial arts techniques to control the match.",
+    "strengths": [
+      "All-rounder",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Power Wave",
+      "Burn Knuckle"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Terry",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Terry/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/b/b4/SF6_Terry_Icon.png/64px-SF6_Terry_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 25,
+    "name": "Mai",
+    "image": "assets/images/mai.png",
+    "style": "Shiranui-ryuu Ninjutsu",
+    "difficulty": "Intermediate",
+    "role": "Zoning",
+    "description": "Mai brings a zoning approach to Street Fighter 6, using shiranui-ryuu ninjutsu techniques to control the match.",
+    "strengths": [
+      "Zoning",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Kachousen",
+      "Ryuuenbu"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Mai",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Mai/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/e/ee/SF6_Mai_Icon.png/64px-SF6_Mai_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 26,
+    "name": "Elena",
+    "image": "assets/images/elena.png",
+    "style": "Capoeira",
+    "difficulty": "Intermediate",
+    "role": "Mobility",
+    "description": "Elena brings a mobility approach to Street Fighter 6, using capoeira techniques to control the match.",
+    "strengths": [
+      "Mobility",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Rhino Horn",
+      "Scratch Wheel"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Elena",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Elena/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/4/4f/SF6_Elena_Icon.png/64px-SF6_Elena_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 27,
+    "name": "Sagat",
+    "image": "assets/images/sagat.png",
+    "style": "Muay Thai",
+    "difficulty": "Intermediate",
+    "role": "Zoning",
+    "description": "Sagat brings a zoning approach to Street Fighter 6, using muay thai techniques to control the match.",
+    "strengths": [
+      "Zoning",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Tiger Shot",
+      "Tiger Uppercut"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Sagat",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Sagat/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/1/10/SF6_Sagat_Icon.png/64px-SF6_Sagat_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 28,
+    "name": "C. Viper",
+    "image": "assets/images/c-viper.png",
+    "style": "Spy Technology",
+    "difficulty": "Advanced",
+    "role": "Mix-up",
+    "description": "C. Viper brings a mix-up approach to Street Fighter 6, using spy technology techniques to control the match.",
+    "strengths": [
+      "Mix-up",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Thunder Knuckle",
+      "Burning Kick"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/C._Viper",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/C._Viper/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/1/15/SF6_Cviper_Icon.png/64px-SF6_Cviper_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 29,
+    "name": "Alex",
+    "image": "assets/images/alex.png",
+    "style": "Wrestling",
+    "difficulty": "Intermediate",
+    "role": "Grappler",
+    "description": "Alex brings a grappler approach to Street Fighter 6, using wrestling techniques to control the match.",
+    "strengths": [
+      "Grappler",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Flash Chop",
+      "Power Bomb"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Alex",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Alex/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/5/58/SF6_Alex_Icon.png/64px-SF6_Alex_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 30,
+    "name": "Ingrid",
+    "image": "assets/images/ingrid.png",
+    "style": "Mystical Martial Arts",
+    "difficulty": "Advanced",
+    "role": "Technical",
+    "description": "Ingrid brings a technical approach to Street Fighter 6, using mystical martial arts techniques to control the match.",
+    "strengths": [
+      "Technical",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Sunshot",
+      "Sunrize"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ingrid",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Ingrid/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/d/d7/SF6_Ingrid_Icon.png/64px-SF6_Ingrid_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 31,
+    "name": "Yasmine",
+    "image": "assets/images/yasmine.png",
+    "style": "Eskrima",
+    "difficulty": "Intermediate",
+    "role": "Rushdown",
+    "description": "Yasmine brings a rushdown approach to Street Fighter 6, using eskrima techniques to control the match.",
+    "strengths": [
+      "Rushdown",
+      "Signature offense",
+      "Matchup-specific tools"
+    ],
+    "weaknesses": [
+      "Requires matchup knowledge",
+      "Timing and spacing"
+    ],
+    "specialMoves": [
+      "Eskrima Strikes",
+      "Karambit Attacks"
+    ],
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Yasmine",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Yasmine/Data",
+    "wikiIcon": "https://wiki.supercombo.gg/images/thumb/7/7c/SF6_Yasmine_Icon.png/64px-SF6_Yasmine_Icon.png",
+    "imageKind": "portrait"
+  },
+  {
+    "id": 32,
+    "name": "Arjun",
+    "image": "assets/images/arjun.png",
+    "style": "Not yet documented",
+    "difficulty": "Intermediate",
+    "role": "Unclassified",
+    "description": "Arjun has been added to the FightLab roster. Detailed character information and frame data have not yet been imported.",
+    "strengths": [],
+    "weaknesses": [],
+    "specialMoves": [],
+    "imageKind": "portrait",
+    "wikiUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Arjun",
+    "wikiDataUrl": "https://wiki.supercombo.gg/w/Street_Fighter_6/Arjun/Data"
+  }
+]

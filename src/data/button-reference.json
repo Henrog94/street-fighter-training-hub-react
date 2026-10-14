@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Light Punch",
+    "notation": "LP",
+    "icon": "light-punch",
+    "detail": "A fast punch, useful for quick checks and pressure."
+  },
+  {
+    "name": "Light Kick",
+    "notation": "LK",
+    "icon": "light-kick",
+    "detail": "A fast kick. Range and cancel options vary by character."
+  },
+  {
+    "name": "Medium Punch",
+    "notation": "MP",
+    "icon": "medium-punch",
+    "detail": "A medium-strength punch often used in pressure, spacing, and combos."
+  },
+  {
+    "name": "Medium Kick",
+    "notation": "MK",
+    "icon": "medium-kick",
+    "detail": "A medium-strength kick useful for poking and controlling space."
+  },
+  {
+    "name": "Heavy Punch",
+    "notation": "HP",
+    "icon": "heavy-punch",
+    "detail": "A stronger punch, often with greater startup or recovery."
+  },
+  {
+    "name": "Heavy Kick",
+    "notation": "HK",
+    "icon": "heavy-kick",
+    "detail": "A stronger kick, often with more reach or damage but slower recovery."
+  },
+  {
+    "name": "Drive Impact",
+    "notation": "HP + HK",
+    "icon": "drive-impact",
+    "detail": "In Classic controls, press Heavy Punch and Heavy Kick together. Costs one Drive bar."
+  },
+  {
+    "name": "Drive Parry",
+    "notation": "MP + MK",
+    "icon": "drive-parry",
+    "detail": "In Classic controls, hold Medium Punch and Medium Kick together. Uses Drive Gauge."
+  }
+]
